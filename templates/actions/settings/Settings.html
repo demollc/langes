@@ -1,0 +1,14 @@
+{$plugin_id = 'langes'}
+<form action="?module=plugins&id={$plugin_id}&action=save">
+    <input type="submit" class="button green" id="{$plugin_id}-update" value="{_wp('Update translation')}">
+    <span id="{$plugin_id}-success" style="display: none"><i style="vertical-align:middle" class="icon16 yes"></i></span>
+</form>
+
+<script>
+    $("#{$plugin_id}-update").click(function (e) {
+        e.preventDefault();
+        $.get("?module=plugins&id={$plugin_id}&action=save", function (response) {
+            $("#{$plugin_id}-success").show();
+        })
+    });
+</script>

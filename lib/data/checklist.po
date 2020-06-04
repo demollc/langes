@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebAsyst Checklists\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-08-08 09:18+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+msgid "New list"
+msgstr "Nueva lista"
+
+msgid "Checklists"
+msgstr "Listas de control"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "List name"
+msgstr "Nombre de la lista"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Or specify image URL (must be exactly 16x16 pixels):"
+msgstr "O especifique la URL de la imagen (debe ser exactamente 16x16 píxeles):"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "or"
+msgstr "o"
+
+msgid "go back to list"
+msgstr "volver a la lista"
+
+msgid "List settings"
+msgstr "Configuración de la lista"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Done"
+msgstr "Hecho"
+
+msgid "List name cannot be empty"
+msgstr "El nombre de la lista no puede estar vacío"
+
+msgid "Edit list item"
+msgstr "Editar elemento de la lista"
+
+msgid "List “%s” will be deleted permanently. Delete?"
+msgstr "La lista \"%s\" se eliminará de forma permanente. ¿Eliminar?"
+
+msgid "Max 255 characters"
+msgstr "Máximo 255 caracteres"
+
+msgid "Can create new lists"
+msgstr "Puede crear nuevas listas"
+
+msgid "No lists available"
+msgstr "No hay listas disponibles"
+
+msgid "Start over"
+msgstr "Empezar de nuevo"
+
+msgid "No access"
+msgstr "Acceso denegado"
+
+msgid "Check items only"
+msgstr "Sólo hay que marcar los elementos de la lista"
+
+msgid "Full access"
+msgstr "Acceso completo"
+
+msgid "Available lists"
+msgstr "Listas disponibles"

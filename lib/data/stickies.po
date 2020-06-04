@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebAsyst\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-05-24 19:09+0300\n"
+"Last-Translator: WebAsyst <support@webasyst.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: Russian Federation\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:5
+msgid "Stickies"
+msgstr "Notas Post-it"
+
+#: /wa-apps/stickies/templates/actions-mobile/backend/Backend.html:91
+msgid "Apps"
+msgstr "Aplicaciones"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:242
+msgid "New board"
+msgstr "Nueva Pizarra"
+
+#: /wa-apps/stickies/templates/actions-mobile/backend/Backend.html:142
+msgid "Add"
+msgstr "Agregar"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:190
+msgid "Settings"
+msgstr "Opciones"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:269
+msgid "Empty server responce"
+msgstr "Respuesta del servidor vacío"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:270
+msgid "AJAX request error"
+msgstr "Error de solicitud AJAX"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:271
+msgid "Invalid server responce"
+msgstr "Respuesta del servidor no reconocida"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:272
+msgid "Delete board with all stickies?"
+msgstr "¿Eliminar la pizarra con todas las notas Post-it?"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:273
+msgid "Error occurred while sorting boards"
+msgstr "Se produjo un error al ordenar las pizarras"
+
+#: /wa-apps/stickies/templates/actions-mobile/backend/Backend.html:233
+msgid "Please wait"
+msgstr "Por favor espera"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:84
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:101
+msgid "Delete"
+msgstr "Eliminar"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:261
+msgid "Sticky status"
+msgstr "Estado de la nota"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:127
+msgid "Color"
+msgstr "Color"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:168
+msgid "New sticky"
+msgstr "Nueva nota"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:209
+msgid "Name"
+msgstr "Título"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:212
+msgid "Background"
+msgstr "Fondo"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:229
+msgid "Save"
+msgstr "Guardar"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:230
+msgid "Delete board"
+msgstr "Eliminar pizarra"
+
+#: /wa-apps/stickies/templates/actions/backend/Backend.html:274
+msgid "no name"
+msgstr "sin título"
+
+#: /wa-apps/stickies/lib/api/v1/stickies.sheetInfo.method.php:28
+msgid "Not enough rights to work with current board"
+msgstr "No hay suficientes permisos para trabajar con la pizarra actual"
+
+#: /wa-apps/stickies/lib/actions/sheet/stickiesSheet.actions.php:97
+msgid "Not enough rights to add new board"
+msgstr "No hay suficientes permisos para crear una nueva pizarra"
+
+#: /wa-apps/stickies/lib/actions/sheet/stickiesSheet.actions.php:94
+msgid "Board"
+msgstr "Pizarra"
+
+#: /wa-apps/stickies/lib/actions/sticky/stickiesSticky.actions.php:72
+msgid "Error while delete sticky"
+msgstr "Error al eliminar la nota"
+
+#: /wa-apps/stickies/lib/api/v1/stickies.stickyUpdate.method.php:45
+msgid "Error while save sticky"
+msgstr "Error al guardar la nota"
+
+#: /wa-apps/stickies/lib/api/v1/stickies.stickyUpdate.method.php:48
+msgid "Invalid sticky ID"
+msgstr "ID de nota no válida"
+
+#: /wa-apps/stickies/lib/config/stickiesRightConfig.class.php:7
+msgid "Allow add new board"
+msgstr "Permitido agregar nuevas pizarras"
+
+#: /wa-apps/stickies/lib/config/stickiesRightConfig.class.php:15
+msgid "Available boards"
+msgstr "Pizarras disponibles"
+
+#: /wa-apps/stickies/templates/actions-mobile/backend/Backend.html:132
+msgid "Boards"
+msgstr "Pizarras"
+
+#: /wa-apps/stickies/lib/config/install.php:5
+msgid "My stickies"
+msgstr "Mis notas"
+
+
+#: /wa-apps/stickies/js/compiled/stickies.js:118
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /wa-apps/stickies/lib/models/stickiesSheet.model.php:83
+msgid "Board not found"
+msgstr "Pizarra no encontrada"
+
+#: /wa-apps/stickies/lib/config/logs.php:5
+msgid "created a new board"
+msgstr "creó una nueva pizarra"
+
+#: /wa-apps/stickies/lib/config/logs.php:8
+msgid "edited board"
+msgstr "editó la pizarra"
+
+#: /wa-apps/stickies/lib/config/logs.php:11
+msgid "deleted board"
+msgstr "borró la pizarra"
+
+#: /wa-apps/stickies/lib/config/logs.php:14
+msgid "added a new sticky"
+msgstr "agregó una nueva nota"
+
+#: /wa-apps/stickies/lib/config/logs.php:17
+msgid "edited sticky"
+msgstr "editó la nota"
+
+#: /wa-apps/stickies/lib/config/logs.php:20
+msgid "resized sticky"
+msgstr "cambió el tamaño de nota"
+
+#: /wa-apps/stickies/lib/config/logs.php:23
+msgid "moved sticky to another board"
+msgstr "movió una nota a otra pizarra"
+
+#: /wa-apps/stickies/lib/config/logs.php:26
+msgid "deleted sticky"
+msgstr "borró la nota"
+
+#: /wa-apps/stickies/lib/config/logs.php:29
+msgid "moved sticky"
+msgstr "movió la  nota"

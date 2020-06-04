@@ -1,0 +1,1883 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: site\n"
+"POT-Creation-Date: 2011-12-07 18:35+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: site\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Language: es_Es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+msgid "Site"
+msgstr "Sitio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:87
+msgid "Files"
+msgstr "Archivos"
+
+#: /wa-apps/site/templates/actions/files/Files.html:64
+msgid "New folder"
+msgstr "Nueva carpeta"
+
+#: /wa-apps/site/templates/actions/files/Files.html:82
+msgid "Upload files"
+msgstr "Subir archivos"
+
+#: /wa-apps/site/templates/actions/files/Files.html:30
+msgid "Selected files"
+msgstr "Archivos seleccionados"
+
+#: /wa-apps/site/templates/actions/files/Files.html:125
+msgid "Move to folder"
+msgstr "Mover a la carpeta"
+
+#: /wa-apps/site/templates/actions/themes/ThemesRow.html:76
+msgid "Delete"
+msgstr "Eliminar"
+
+#: /wa-apps/site/templates/actions/files/Files.html:38
+msgid "Folder"
+msgstr "Carpeta"
+
+#: /wa-apps/site/templates/actions/themes/ThemesDefault.html:82
+msgid "Rename"
+msgstr "Renombrar"
+
+#: /wa-apps/site/templates/actions/files/Files.html:50
+msgid "File"
+msgstr "Archivo"
+
+#: /wa-apps/site/templates/actions/files/Files.html:51
+msgid "Modified"
+msgstr "Modificado"
+
+#: /wa-apps/site/templates/actions/files/Files.html:52
+msgid "Size"
+msgstr "Tamaño"
+
+#: /wa-apps/site/templates/actions/files/Files.html:70
+msgid "Create"
+msgstr "Crear"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:43
+msgid "or"
+msgstr "o"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:43
+msgid "cancel"
+msgstr "cancelar"
+
+#: /wa-apps/site/templates/actions/themes/ThemesDefault.html:66
+msgid "Uploading..."
+msgstr "Cargando..."
+
+#: /wa-apps/site/templates/actions/themes/ThemesDefault.html:72
+msgid "Upload"
+msgstr "Cargar"
+
+msgid "Upload image"
+msgstr "Cargar imagen"
+
+#: /wa-apps/site/templates/layouts/Default.html:63
+msgid "Save"
+msgstr "Guardar"
+
+#: /wa-apps/site/templates/actions/files/Files.html:133
+msgid "Move"
+msgstr "Mover"
+
+#: /wa-apps/site/templates/actions/files/Files.html:315
+msgid "Delete folder"
+msgstr "Borrar carpeta"
+
+#: /wa-apps/site/templates/actions/files/Files.html:315
+msgid "Folder will be deleted without the ability to recover."
+msgstr "La carpeta será eliminada permanentemente - no podrás recuperarla."
+
+#: /wa-apps/site/templates/actions/files/Files.html:355
+msgid "Delete files"
+msgstr "Eliminar archivos"
+
+#: /wa-apps/site/templates/actions/files/Files.html:355
+msgid "Files will be deleted without the ability to recover."
+msgstr "Los archivos serán eliminados sin posibilidad de recuperación."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:2
+msgid "Site setup"
+msgstr "Configuración del sitio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:9
+msgid "Delete entire website"
+msgstr "Eliminar sitio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:50
+msgid "Routing"
+msgstr "Enrutamiento"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:17
+msgid "Settings"
+msgstr "Configuración"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:22
+msgid "New rule"
+msgstr "Nueva regla"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:326
+msgid "App settings"
+msgstr "Configuración de la aplicación"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:327
+msgid "Edit URL"
+msgstr "Editar URL"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:328
+msgid "Delete rule"
+msgstr "Eliminar regla"
+
+msgid "Comment"
+msgstr "Comentario"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:39
+msgid "http://www.webasyst.com/framework/docs/site/structure/"
+msgstr "http://www.webasyst.com/framework/docs/site/structure/"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:18
+msgid "Help"
+msgstr "Ayuda"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:64
+msgid "Site URL"
+msgstr "URL del sitio"
+
+msgid "May be displayed on websites and in email notifications."
+msgstr "Se puede mostrar en las páginas del sitio y en las notificaciones por correo electrónico."
+
+msgid "May be used on websites and in email notifications."
+msgstr "Se puede utilizar en páginas web y en notificaciones por correo electrónico."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:67
+msgid "A valid URL pointing to this Webasyst installation."
+msgstr "Dirección válida (URL), cual dirija a instalación de marco de referencia (framework) Webasyst."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:71
+msgid "Site name"
+msgstr "Nombre del sitio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:73
+msgid "Matches Site URL"
+msgstr "Coincide con la URL del sitio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:85
+msgid "menu"
+msgstr "menú"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:87
+msgid "The array defining core website navigation menu"
+msgstr "Array que define el menú de navegación principal en el sitio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:90
+msgid "All settled apps"
+msgstr "Todas las aplicaciones"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:90
+msgid "Automatically define navigation menu according to the routing rules"
+msgstr "El menú de navegación se generará automáticamente de acuerdo con las reglas de enrutamiento de este sitio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:93
+msgid "Setup manually"
+msgstr "Configurar"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:170
+msgid "Edit"
+msgstr "Editar"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:113
+msgid "When done editing, click “Save” to apply changes."
+msgstr "Cuando termine de editar, haga clic en \"Guardar\" para aplicar los cambios"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:115
+msgid "Add link"
+msgstr "Añadir enlace"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:125
+msgid "Favicon"
+msgstr "Favicon"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:129
+msgid "Upload another favicon"
+msgstr "Subir otro favicon"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:138
+msgid "Contents of this site's robots.txt file."
+msgstr "Contenido del archivo robots.txt de este sitio"
+
+#: /wa-apps/site/templates/layouts/Default.html:92
+msgid "Saved"
+msgstr "Guardado"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:162
+msgid "Redirect"
+msgstr "Redirigir"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:186
+msgid "This will delete the link from the menu. Are you sure?"
+msgstr "El enlace se eliminará del menú. ¿Continuar?"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:230
+msgid "This will delete the rule from website structure. Are you sure?"
+msgstr "La regla se eliminará de la estructura del sitio. ¿Continuar?"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:67
+msgid "New page"
+msgstr "Nueva página"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:19
+msgid "Page settings"
+msgstr "Configuraciones de página"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:25
+msgid "This will delete entire page. Are you sure?"
+msgstr "Esto eliminará la página. ¿Está seguro?"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:75
+msgid "draft"
+msgstr "borrador"
+
+#: /wa-apps/site/templates/layouts/Design.html:13
+msgid "Preview"
+msgstr "Vista previa"
+
+#: /wa-apps/site/lib/config/site.php:7
+msgid "Page name"
+msgstr "Nombre de la página"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:69
+msgid "Draft"
+msgstr "Borrador"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:71
+msgid "Published"
+msgstr "Publicado"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:78
+msgid "Page URL"
+msgstr "URL de página"
+
+#: /wa-apps/site/lib/config/site.php:18
+msgid "Title"
+msgstr "Título"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:114
+msgid "Page custom parameters"
+msgstr "Parámetros personalizados de la página"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:118
+msgid "http://www.webasyst.com/framework/docs/site/pages/"
+msgstr "http://www.webasyst.com/framework/docs/site/pages/"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:127
+msgid "WYSIWYG"
+msgstr "Editor Visual(WYSIWYG)"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:2
+msgid "Block"
+msgstr "Bloque"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:17
+msgid "New block"
+msgstr "Nuevo bloque"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:32
+msgid "Block settings"
+msgstr "Сonfiguración de bloque"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:37
+msgid "Embed block into a page or a template"
+msgstr "Incrustar bloque en una página o plantilla"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:45
+msgid "ID"
+msgstr "ID"
+
+#: /wa-apps/site/templates/actions/design/Design.html:35
+msgid "Description"
+msgstr "Descripción"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:112
+msgid "This will permanently delete this snipper. Are you sure?"
+msgstr "El bloque se eliminará y dejará de conectarse en las plantillas y en las páginas a las que se agregó anteriormente. ¿Eliminar el bloque?"
+
+#: /wa-apps/site/templates/layouts/Design.html:23
+msgid "New file"
+msgstr "Nuevo archivo"
+
+#: /wa-apps/site/templates/actions/design/Design.html:14
+msgid "Template settings"
+msgstr "Configuración de la plantilla"
+
+#: /wa-apps/site/templates/actions/design/Design.html:26
+msgid "File name"
+msgstr "Nombre del archivo"
+
+#: /wa-apps/site/templates/actions/design/Design.html:30
+msgid "File should have one of the allowed extensions: .html, .css, .js"
+msgstr "El nombre de archivo debe terminar con una de las siguientes extensiones: .html, .css, .js."
+
+#: /wa-apps/site/templates/actions/design/Design.html:39
+msgid "Optional template description"
+msgstr "Descripción de la plantilla opcional"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:2
+msgid "settings"
+msgstr "configuraciones"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:8
+msgid "{$app.name|escape} app settled at"
+msgstr "«{$app.name|escape}» a la dirección"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:16
+msgid "Settlement name"
+msgstr "Nombre del asentamiento"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:19
+msgid "Name is used in the <em>$wa->apps</em> navigation menu of this website"
+msgstr "El nombre se usa en el menú de navegación <em>$wa->apps</em> de este sitio web"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:23
+msgid "Design theme"
+msgstr "Tema de diseño"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:29
+msgid "Mobile design theme"
+msgstr "Tema de diseño móvil"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:33
+msgid "Design theme for mobile multi-touch devices such as iPhone and Android"
+msgstr "Tema de diseño para dispositivos móviles multitáctiles como iPhone y Android"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:47
+msgid "Custom parameters"
+msgstr "Parámetros personalizados"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:53
+msgid "http://www.webasyst.com/framework/docs/site/design/"
+msgstr "http://www.webasyst.com/framework/docs/site/design/"
+
+#: /wa-apps/site/templates/layouts/Default.html:88
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: /wa-apps/site/templates/layouts/Default.html:45
+msgid "Loading"
+msgstr "Cargando"
+
+#: /wa-apps/site/templates/layouts/Default.html:56
+msgid "Cheat sheet"
+msgstr "Hoja de trucos"
+
+#: /wa-apps/site/templates/layouts/Default.html:102
+msgid "An error occurred while saving"
+msgstr "Ocurrió un error al intentar guardar"
+
+#: /wa-apps/site/templates/layouts/Default.html:120
+msgid "Unsaved changes will be lost if you leave this page now. Are you sure?"
+msgstr "Los cambios no guardados se perderán si abandonas esta página ahora. ¿Estás seguro?"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:33
+msgid "New site"
+msgstr "Nuevo sitio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:26
+msgid "Open website"
+msgstr "Abrir sitio web"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:27
+msgid "Site info"
+msgstr "Configuración del sitio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:36
+msgid "E.g. mydomain.com, www.mydomain.com, subdomain.mydomain.com"
+msgstr "Por ejemplo, mydomain.es, www.mydomain.es, subdomain.mydomain.es"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:42
+msgid "Create site"
+msgstr "Crear sitio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:51
+msgid "Apps"
+msgstr "Aplicaciones"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:68
+msgid "Pages"
+msgstr "Páginas"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:86
+msgid "Blocks"
+msgstr "Bloques"
+
+#: /wa-apps/site/lib/actions/files/siteFilesUploadimage.controller.php:25
+msgid "Files with extensions %s are allowed only."
+msgstr "Permitido descargar archivos sólo con extensiones %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesAddFolder.controller.php:14
+msgid "Folder could not bet created due to the insufficient file write permissions for the %s folder."
+msgstr "No se pudo crear la carpeta debido a derechos insuficientes para sobrescribir el contenido de la carpeta %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesAddFolder.controller.php:18
+msgid "An unkown error occured when attempting to create a folder."
+msgstr "Ocurrió un error desconocido al intentar crear una carpeta."
+
+#: /wa-apps/site/lib/actions/files/siteFilesDelete.controller.php:21
+msgid "Folder could not bet deleted due to the insufficient permissions."
+msgstr "No se pudo eliminar la carpeta debido a permisos insuficientes."
+
+#: /wa-apps/site/lib/actions/files/siteFilesMove.controller.php:13
+msgid "Files could not bet moved due to the insufficient file write permissions for the %s folder."
+msgstr "No se pudieron mover los archivos debido a derechos insuficientes para sobrescribir el contenido de la carpeta %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesMove.controller.php:23
+msgid "Can not move file “%s” to a new location"
+msgstr "No se pudo mover el archivo %s a la carpeta especificada"
+
+#: /wa-apps/site/lib/actions/files/siteFilesMove.controller.php:35
+msgid "Can not move to a new location"
+msgstr "No se pudo mover a la carpeta especificada"
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:17
+msgid "Files with extension .%s are not allowed to security considerations."
+msgstr "Los archivos con la extensión .%s no están permitidos por razones de seguridad."
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:22
+msgid "Folder or file could not bet renamed due to the insufficient file write permissions for the %s folder."
+msgstr "No se pudo cambiar el nombre del archivo (carpeta) debido a derechos insuficientes para sobrescribir el contenido de la carpeta %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:33
+msgid "File (folder) can not be renamed"
+msgstr "No se pudo cambiar el nombre del archivo (carpeta)"
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:37
+msgid "Enter the new name"
+msgstr "Ingrese el nuevo nombre"
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:39
+msgid "Selected folder (file) does not exist anymore"
+msgstr "La carpeta seleccionada (archivo) no existe"
+
+#: /wa-apps/site/lib/actions/files/siteFilesUpload.controller.php:13
+msgid "File could not bet saved due to the insufficient file write permissions for the %s folder."
+msgstr "No se pudo guardar el archivo debido a derechos insuficientes para sobrescribir el contenido de la carpeta %s"
+
+#: /wa-apps/site/lib/actions/files/siteFilesUpload.controller.php:38
+msgid "Files with extension .%s are not allowed for upload due to the security considerations."
+msgstr "Cargar archivos con la extensión .%s no está permitido por razones de seguridad."
+
+#: /wa-apps/site/lib/actions/files/siteFilesUpload.controller.php:56
+msgid "Failed to upload file %s."
+msgstr "No se pudo cargar el archivo %s"
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:100
+msgid "Favicon image you upload here will not take effect for you website %s because your website is set for a subfolder on a domain. Favicon uploaded using the form above will be set only for websites set from the domain root folder."
+msgstr "Imagen de Favicon, cargado usando este formulario no se aplicará al sitio %s, porque el sitio está ubicado en el subdirectorio del dominio. El icono cargado a través de este formulario solo se puede configurar para los sitios ubicados en la raíz del directorio del dominio."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:101
+msgid "Rules you set above for robots.txt will not take effect for you website %s because your website is set for a subfolder on a domain. Rules for robots.txt from the form above will be effective only for websites set to the domain root folder."
+msgstr "Las reglas para el archivo robots.txt que utilizan este formulario no se aplicarán al sitio% s, porque este sitio se encuentra en un subdirectorio del dominio. El contenido de robots.txt agregado con este formulario solo se puede usar para los sitios ubicados En la raíz del dominio."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:105
+msgid "File favicon.ico exists in the Webasyst framework installation folder. The favicon you upload here will be overridden by the icon uploaded as file unless you delete this file."
+msgstr "El archivo favicon.ico se encontró en el directorio de instalación de Webasyst. En lugar del icono almacenado en esta página, se mostrará el icono del archivo especificado."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:108
+msgid "File robots.txt exists in the Webasyst framework installation folder. Rules for robots.txt you specify above will not take effect unless you delete this file."
+msgstr "El archivo robots.txt se encontró en el directorio de instalación de Webasyst. Las reglas para el archivo robots.txt almacenado en esta página no se aplicarán."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:71
+msgid "Settings could not be saved due to the insufficient file write permissions for the \"%s\" folder."
+msgstr "No se pudieron guardar las configuraciones debido a derechos insuficientes para sobrescribir el contenido de la carpeta «%s»."
+
+msgid "Settings could not be saved due to the insufficient file write permissions for the file \"%s\"."
+msgstr "No se pudieron guardar las configuraciones debido a permisos de escritura insuficientes para el archivo «%s»."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:84
+msgid "Files with extension *.ico are allowed only."
+msgstr "Sólo se permiten archivos con extensión *.ico."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:103
+msgid "File could not be saved due to the insufficient file write permissions for the \"%s\" folder."
+msgstr "No se pudo guardar el archivo debido a derechos insuficientes para sobrescribir el contenido de la carpeta «%s»."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:90
+msgid "Failed to upload file."
+msgstr "No se pudo cargar el archivo."
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:14
+msgid "File URL"
+msgstr "URL del archivo"
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:19
+msgid "Delete file"
+msgstr "Eliminar archivo"
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:21
+msgid "will be deleted without the ability to recover."
+msgstr "se eliminará sin posibilidad de recuperación."
+
+#: /wa-apps/site/lib/config/site.php:20
+msgid "META Keywords"
+msgstr "META Keywords"
+
+#: /wa-apps/site/lib/config/site.php:21
+msgid "META Description"
+msgstr "META Descripción"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:9
+msgid "URL of this Webasyst installation (relative)."
+msgstr "URL de esta instalación de Webasyst (relativa)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:10
+msgid "URL of the current app settlement (relative)."
+msgstr "URL de la asentamiento de la aplicación actual (relativa)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:11
+msgid "URL to access Webasyst backend (relative)."
+msgstr "URL para acceder al backend-panel adminstrativa de Webasyst (relativo)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:12
+msgid "URL of the current app’s design theme folder (relative)."
+msgstr "URL de la carpeta de tema de diseño de tema actual (relativa)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:16
+msgid "Returns current page URL.<br><em>$absolute = true</em> requires to return an absolute URL instead of a relative one.<br><em>$without_params = true</em> requires to return current URL without GET parameters."
+msgstr "Devuelve la URL de la página actual.<br><em>$absolute = true</em> significa obtener una URL absoluta en lugar de una relativa.<br><em>$without_params = true</em> devuelve la URL actual sin los parámetros GET."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:17
+msgid "Returns this domain’s root URL (absolute)."
+msgstr "Devuelve la URL raíz de este dominio (absoluto)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:18
+msgid "Returns value of the global var by <em>key</em>. Global var array is initially empty, and can be used arbitrarily."
+msgstr "Devuelve el valor de una variable global mediante la tecla <em>key</em>. La matriz de variables globales está inicialmente vacía y se puede usar de forma arbitraria"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:19
+msgid "Assigns a new value to a global variable."
+msgstr "Asigna un nuevo valor a una variable global"
+
+msgid "Assigns a new title."
+msgstr "Establece un nuevo encabezado."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:20
+msgid "Returns GET parameter value (same as PHP $_GET[\"<em>key</em>\"]).<br>\"<em>default</em>\" is an optional default value which is returned if specified GET parameter is not found."
+msgstr "Devuelve el valor del parámetro GET (similar $_GET[\"<em>key</em>\"] в PHP).<br>\"<em>default</em>\" — es un valor predeterminado opcional, que se devuelve si no se encuentra el parámetro GET especificado."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:21
+msgid "Based on current session data, returns <em>true</em> or <em>false</em> depending on whether a multi-touch mobile device is used. If no session variable indicates the requested website version (mobile or desktop), User Agent information is used."
+msgstr "Devuelve <em>true</em> или <em>false</em> dependiendo de si el usuario está utilizando actualmente un dispositivo móvil multitáctil (iPhone, Android, etc.) o no, si la variable de sesión Falta el tipo de versión del sitio (móvil o estándar), luego se usa la información de los encabezados User-Agent"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:23
+msgid "Returns POST parameter value (same as $_POST[\"<em>key</em>\"] in PHP).<br>\"<em>default</em>\" is an optional default value which is returned if specified POST parameter is not found."
+msgstr "Devuelve el valor del parámetro POST (similar $_POST[\"<em>key</em>\"] в PHP).<br>\"<em>default</em>\" — es un valor predeterminado opcional, que se devuelve si no se encuentra el parámetro POST especificado."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:24
+msgid "Returns SERVER parameter value (same as $_SERVER[\"<em>KEY</em>\"] in PHP).<br>\"<em>default</em>\" is an optional default value which is returned if specified server parameter is not found."
+msgstr "Devuelve el valor del parámetro SERVER (igual que $_SERVER[\"<em>key</em>\"] в PHP).<br>\"<em>default</em>\" — es un valor predeterminado opcional, que se devuelve si no se encuentra el parámetro especificado de la matriz SERVER."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:25
+msgid "Returns SESSION var value (same as $_SESSION[\"<em>key</em>\"] in PHP).<br>\"<em>default</em>\" is an optional default value which is returned if specified session parameter is not found."
+msgstr "Devuelve el valor de la variable de sesión SESSION (similar a $_SESSION[\"<em>key</em>\"] en PHP).<br>\"<em>default</em>\" — es un valor predeterminado opcional, que se devuelve si no se encuentra la variable de sesión especificada."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:26
+msgid "Embeds HTML block by ID.<br><em>$params</em> is array of Smarty variables to be passed to block contents."
+msgstr "Muestra el contenido del bloque por su identificador.<br><em>$params</em> — es una matriz de variables Smarty que se deben pasar al contenido del bloque."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:27
+msgid "Returns authorized user‘s data. \"<em>field</em>\" (string) is optional and indicates the field id to be returned. Returns <em>false</em> if user is not authorized.<br><em>$format</em> parameter (defaults to \"html\") defines the <a href=\"https://developers.webasyst.com/cookbook/basics/classes/waContact/#method-get\" target=\"_blank\">format</a> of the returned value."
+msgstr "Devuelve una matriz con los datos de un usuario autorizado. Si se especifica el parámetro opcional \"<em>field</em>\" (string), se devuelve el contenido del campo específico de la entrada de contacto. Si el usuario no está autorizado, la función devuelve <em>false</em>.<br>El parámetro <em>$format</em> el valor predeterminado es — \"html\") определяет <a href=\"https://developers.webasyst.com/cookbook/basics/classes/waContact/#method-get\" target=\"_blank\">format</a> de los datos devueltos."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:28
+msgid "Returns User Agent info by specified “<em>key</em>” parameter:"
+msgstr "Devuelve la información de User-Agent para la tecla especificada <em>key</em>:"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:30
+msgid "— <em>\"isMobile\"</em>: returns <em>true</em> or <em>false</em> if user is using a multi-touch mobile device (iOS, Android and similar), based solely on User Agent string;"
+msgstr "— <em>\"isMobile\"</em>: según el contenido de los encabezados de User Agent, devuelve <em>true</em> или <em>false</em> dependiendo de si el usuario usa dispositivo móvil multitáctil actualmente (iPhone, Android, etc.) o no;"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:31
+msgid "— not specified: returns entire User Agent string;"
+msgstr "— no especificado: devuelve la cadena completa Usuario-Agente"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:69
+msgid "Displays a simple variable (non array/object)"
+msgstr "Muestra una variable (no es adecuada para matrices y objetos)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:70
+msgid "Displays the 5th element of a zero-indexed array"
+msgstr "Muestra el quinto elemento de la matriz, contando desde el índice cero"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:72
+msgid "Displays variable key value of an array. Similar to PHP $foo[$bar]"
+msgstr "Muestra el valor de un elemento de matriz con una clave variable. Igual que usar $foo[$bar] en PHP"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:73
+msgid "Displays the object property named <em>bar</em>"
+msgstr "Muestra la propiedad de un objeto llamado <em>barra</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:74
+msgid "Displays the return value of object method named <em>bar()</em>"
+msgstr "Muestra el valor devuelto por el método del objeto llamado <em>bar()</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:75
+msgid "Escapes a variable for safe display in HTML"
+msgstr "Escapa una variable para una visualización segura en código HTML"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+msgid "Outputs the sum of <em>$x</em> and <em>$y</em>"
+msgstr "Muestra la suma de <em>$x</em> y <em>$y</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:78
+msgid "Assigns variable a value"
+msgstr "Asigna un valor a una variable"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:80
+msgid "Content between {literal} tags will not be parsed by Smarty"
+msgstr "El contenido entre las etiquetas {literal} no será procesado por Smarty"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:82
+msgid "Similar to PHP if statements"
+msgstr "Similar a PHP if construcción"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:83
+msgid "{foreach} is for looping over arrays of data"
+msgstr "Se utiliza para recorrer elementos en matrices de datos"
+
+#: /wa-apps/site/lib/actions/snippets/siteSnippetsSave.controller.php:12
+msgid "Only latin characters, numbers and underscore symbol are allowed."
+msgstr "Sólo se permiten letras latinas, números y guiones bajos"
+
+#: /wa-apps/site/lib/config/data/welcome.html:2
+msgid "This website is powered by the Site app."
+msgstr "Este sitio web funciona con la aplicación \"El Sitio\"."
+
+#: /wa-apps/site/lib/config/data/welcome.html:3
+msgid "Refer to this tutorial to build your new site"
+msgstr "Consulte el artículo de documentación de Webasyst para ver un ejemplo de cómo crear un sitio"
+
+#: /wa-apps/site/lib/config/data/welcome.html:4
+msgid "http://www.webasyst.com/framework/docs/site/tutorial/"
+msgstr "http://www.webasyst.com/framework/docs/site/tutorial/"
+
+#: /wa-apps/site/lib/config/site.php:8
+msgid "Page title (&lt;title&gt;)"
+msgstr "Título de la página (&lt;title&gt;)"
+
+#: /wa-apps/site/lib/config/site.php:9
+msgid "Page content"
+msgstr "Contenido de la página"
+
+#: /wa-apps/site/lib/config/site.php:10
+msgid "Page last update datetime"
+msgstr "Última fecha de actualización de la página"
+
+#: /wa-apps/site/lib/config/site.php:14
+msgid "Page list (only id, name, title, url, create_datetime, update_datetime)"
+msgstr "Lista de páginas (solo id, nombre, título, url, create_datetime, update_datetime)"
+
+#: /wa-apps/site/lib/config/site.php:15
+msgid "Returns page info (array) by <em>id</em> (int)"
+msgstr "Devuelve información sobre una página (matriz) por id <em>id</em> (int)"
+
+#: /wa-apps/site/lib/config/site.php:19
+msgid "Contenido"
+msgstr "Содержимое"
+
+#: /wa-apps/site/lib/config/site.php:24
+msgid "Error code (e.g. 404)"
+msgstr "Código de error (por ejemplo, 404)"
+
+#: /wa-apps/site/lib/config/site.php:25
+msgid "Error message"
+msgstr "Mensaje de error"
+
+#: /wa-apps/site/lib/config/siteRightConfig.class.php:9
+msgid "Available sites"
+msgstr "Sitios disponibles"
+
+#: /wa-apps/site/lib/config/install.php:14
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "Locale"
+msgstr "Locale"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Edit this layout in your <a href=\"{$wa_backend_url}\">Webasyst backend</a> using “Site” app."
+msgstr "El diseño del sitio se configura <a href=\"{$wa_backend_url}\">en el backend</a> utilizando la aplicación \"Sitio\"."
+
+msgid "Image will be uploaded into"
+msgstr "La imagen será subida en"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:146
+msgid "Authorization"
+msgstr "Autorización"
+
+#: /wa-apps/site/themes/default/error.html:7
+msgid "Error"
+msgstr "Error"
+
+#: /wa-apps/site/js/site-jquery.min.js:49
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /wa-apps/site/js/site.js:215
+msgid "Disable this URL"
+msgstr "Deshabilitar esta URL"
+
+#: /wa-apps/site/js/site.js:216
+msgid "disable"
+msgstr "deshabilitar"
+
+#: /wa-apps/site/js/site.js:222
+msgid "Enable this URL"
+msgstr "Habilitar esta URL"
+
+#: /wa-apps/site/js/site.js:223
+msgid "enable"
+msgstr "habilitar"
+
+#: /wa-apps/site/themes/default/index.html:24
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: /wa-apps/site/themes/default/index.html:27
+msgid "Sign up"
+msgstr "Registrarse"
+
+#: /wa-apps/site/themes/default/index.html:28
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: /wa-apps/site/themes/default/index.html:45
+msgid "Powered by Webasyst"
+msgstr "Desarrollado por Webasyst España"
+
+#: /wa-apps/site/themes/default/error.html:8
+msgid "The requested resource is not available."
+msgstr "El recurso solicitado no está disponible."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:148
+msgid "Enable sign up and login forms for this site"
+msgstr "Habilitar formularios de registro e inicio de sesión para este sitio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:152
+msgid "Select a site section where visitors will sign up and log into their personal accounts."
+msgstr "Seleccione una sección del sitio en el que los visitantes se registrarán e iniciarán sesión en su cuenta personal."
+
+msgid "Enable captcha for signup form"
+msgstr "Habilitar captcha para el formulario de registro"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "Enter the URL of your new website. You should own the domain and map it into your Webasyst installation (the URL should be the effective URL to access this Webasyst installation). Contact your hosting provider on how to map your domain name."
+msgstr "Ingrese la URL del nuevo sitio. Debe ser propietario de un nombre de dominio y preconfigurar el dominio para que apunte a esta instalación de Webasyst. Para configurar un nombre de dominio, comuníquese con su proveedor de alojamiento para obtener ayuda."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:64
+msgid "Optional set of custom <em>key=value</em> parameters which can be used within design templates and pages of this settlement as <em>&#123;$wa->globals(\"key\")&#125;</em>. Each key=value pair should be on a separate line."
+msgstr "Un conjunto opcional de parámetros de tipo <em>key=value</em>, cuyos valores pueden accederse mediante los patrones de diseño y las páginas de este acuerdo como <em>&#123;$wa->globals(\"key\")&#125;</em>. Cada par key=value debe estar en una línea separada."
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:68
+msgid "Select route to manage its settings"
+msgstr "Seleccione una regla de enrutamiento para editar su configuración"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:36
+msgid "Rules are processed one by one in the given order. The first rule matching current HTTP request (web address) will be processed. Use * symbol in the URL fields for wildcard."
+msgstr "Las reglas se procesan una por una en el orden especificado. El procesamiento comienza con la primera regla de la lista y termina con una regla que coincide con la solicitud HTTP actual (dirección). Para indicar cualquier carácter, use un asterisco (*) como máscara."
+
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:37
+msgid "View original"
+msgstr "Ver original"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:27
+msgid "E.g. <em>domain.com</em> if Webasyst is installed into domain.com's root folder, <em>domain.com/wa</em> if Webasyst is installed into /wa/ subfolder on domain.com. Do not put slash at the end of the URL."
+msgstr "Por ejemplo, <em>domain.es </em>, si Webasyst está instalado en el directorio raíz de domain.es, o <em> domain.es/wa</em>, si Webasyst está instalado en el subdirectorio / wa / domain domain.es.Al final de la URL, no es necesario agregar una barra (/)."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:36
+msgid "Site alias used within site selection menu (at the top left corner), and as the anchor name in frontend's <em>$wa->apps()</em> navigation menu array."
+msgstr "Pseudónimo del sitio web, se usa en el menú de selección de sitios (en la esquina superior izquierda) y como el texto del enlace en el menú de navegación del frontend <em>$wa->apps()</em>."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:82
+msgid "Background"
+msgstr "Fondo"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:93
+msgid "Custom"
+msgstr "Personalizado"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:122
+msgid "Background is for customizing your Site app backend, which is useful when you have multiple websites powered by the single Webasyst installation. Selected background will not be shown in the frontend."
+msgstr "El fondo se usa para personalizar el backend de la aplicación \"Sitio\". Esto es conveniente si administra varios sitios dentro de la misma instalación del marco de Webasyst. El fondo seleccionado no se ve en la interfaz (frontend/escaparate de la tienda)."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:126
+msgid "Custom head JS"
+msgstr "Código JavaScript de usuario dentro de &lt;head&gt;"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:128
+msgid "Google Analytics Property ID"
+msgstr "ID de propiedad de Google Analytics"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:131
+msgid "E.g. <strong>UA-123456-1</strong><br />If you are using <a href=\"https://www.google.com/analytics/\">Google Analytics</a> to track your website visits and conversions, instead of embedding Google Analytics JS code manually, enter your Google Analytics Property ID here. A valid Google Analytics code will be automatically embedded into every app and every design theme before the closing &lt;/head&gt; tag."
+msgstr "Por ejemplo,<strong>UA-123456-1</strong><br />Si usa <a href=\"https://www.google.com/analytics/\">Google Analytics</a> para rastrear las estadísticas y la conversión de visitantes de su sitio web, en lugar de insertar manualmente el código de Google Analytics, simplemente ingrese su ID de propiedad de Google Analytics aquí. El código correcto de Google Analytics se insertará automáticamente en todos los temas de todas las aplicaciones antes de la etiqueta de cierre &lt;/head&gt;."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:135
+msgid "Additional JS code to be added before the closing &lt;/head&gt; tag:"
+msgstr "Código JavaScript adicional para insertar antes de la etiqueta de cierre &lt;/head&gt;:"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:193
+msgid "Third-party authorization"
+msgstr "Autorización a través de servicios externos"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:194
+msgid "Enables your site visitors to quickly sign up or sign in via accounts on external popular platforms, e.g. Facebook and Twitter. <a href=\"https://support.webasyst.com/5556/third-party-auth-setup/\" target=\"_blank\">Setup instructions</a> <i class=\"icon10 new-window\"></i>"
+msgstr "Permite a los visitantes de su sitio registrarse o iniciar sesión rápidamente a través de cuentas en servicios populares de terceros, por ejemplo, a través de Facebook o Twitter. <a href=\"https://support.webasyst.com/5556/third-party-auth-setup/\" target=\"_blank\">Documentación de configuración</a> <i class=\"icon10 new-window\"></i>"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:224
+msgid "To enable authorization on this website, install and settle at least one app that supports authorization forms."
+msgstr "Para que la autorización esté disponible en este sitio, instale al menos una aplicación que admita formularios de autorización y configure el enrutamiento para ella."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:344
+msgid "This will delete entire website including all its pages without the ability to recover. Are you sure?"
+msgstr "Se eliminará todo el sitio incluyendo todas las páginas de forma permanente. ¿Está seguro?"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:190
+msgid "The page is not available on the website because “Site” app is not connected in the website structure."
+msgstr "Esta página no está disponible en el sitio porque la aplicación \"Sitio\" no está conectada a la estructura del sitio."
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:112
+msgid "Optional set of custom <em>key=value</em> parameters which can be used within page.html template or this page content as <em>&#123;$page.key&#125;</em>. Each key=value pair should be on a separate line."
+msgstr "Conjunto opcional de <em>key=value</em> parámetros, cuyos valores se pueden acceder en la plantilla page.html o en el contenido de esta página como <em>&#123;$page.key&#125;</em>. Cada par key=value debe estar en una línea separada."
+
+#: /wa-apps/site/lib/config/site.php:13
+msgid "Returns the array of pages associated with the current “Site” app settlement. Each page is an array of ( <em>\"id\", \"name\", \"title\", \"url\", \"create_datetime\", \"update_datetime\", \"content\"[, \"custom_1\", \"custom_2\", …]</em> )"
+msgstr "Devuelve una matriz de páginas relacionadas con este acuerdo de la aplicación del \"Sitio\". Cada página es una matriz con la siguiente estructura: <em>\"id\", \"name\", \"title\", \"url\", \"create_datetime\", \"update_datetime\", \"content\"[, \"custom_1\", \"custom_2\", …]</em>"
+
+#: /wa-apps/site/lib/config/site.php:29
+msgid "Email feedback form"
+msgstr "Formulario para enviar mensajes"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:16
+msgid "Returns name of this Webasyst installation specified in Installer app settings.<br><em>escape = false</em> requires to embed special characters in account name instead of displaying them."
+msgstr "Devuelve el nombre de esta instalación de Webasyst especificada en la configuración de la aplicación del \"Instalador\". <br><em>escape = false</em> indica la inserción directa de caracteres especiales en el nombre de la cuenta en el código HTML de la página en lugar de mostrarlos."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:17
+msgid "Returns this site’s core navigation menu which is either defined automatically or manually in the Site‘s “Settings” screen."
+msgstr "Devuelve el menú de navegación principal de este sitio, generado automática o manualmente en la configuración de la aplicación \"Sitio\" "
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:24
+msgid "Returns user locale; e.g., “en_US”, “ru_RU”. If the user is authorized, the locale is retrieved from the user’s record in the Contacts app or is detected automatically otherwise."
+msgstr "Devuelve la configuración regional de idioma del usuario en_US, ru_RU. Si el usuario está autorizado, la información de configuración regional se recupera de la aplicación de \"Contactos\"; de lo contrario, se detecta automáticamente."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:31
+msgid "— <em>\"platform\"</em>: current visitor device platform name, e.g. <em>windows, mac, linux, ios, android, blackberry</em>;"
+msgstr "— <em>platform</em>: el nombre de la plataforma del sistema del usuario, por ejemplo,<em>windows, mac, linux, ios, android, blackberry</em>;"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:73
+msgid "Displays the \"<em>bar</em>\" key value of an array. Similar to PHP $foo[\"bar\"]"
+msgstr "Muestra el valor clave de la matriz «<em>bar</em>» de la misma manera que $foo[\"bar\"] en PHP."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:78
+msgid "Outputs <em>$var</em> datetime in a user-friendly form. Supported <em>$format</em> values: <em>monthdate, date, dtime, datetime, fulldatetime, time, fulltime, humandate, humandatetime</em>"
+msgstr "Muestra el tiempo <em>$var</em> en un formato fácil de leer. Valores disponibles <em>$format</em>: <em>monthdate, date, dtime, datetime, fulldatetime, time, fulltime, humandate, humandatetime</em>."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:81
+msgid "Direct PHP function access. E.g. <em>{time()}</em> displays the current timestamp"
+msgstr "Acceso directo a las funciones de PHP. Por ejemplo, <em>{time()}</em> muestra la marca de tiempo actual de UNIX"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:83
+msgid "Embeds a Smarty template into the current content. <em>file</em> attribute specifies a template filename within the current design theme folder"
+msgstr "Inserta la plantilla de Smarty en el contenido actual. El atributo <em>file</em> indica el nombre del archivo de plantilla en la carpeta de la máscara utilizada."
+
+#: /wa-apps/site/lib/actions/blocks/siteBlocksSave.controller.php:43
+msgid "Block with id \"%s\" already exists"
+msgstr "Ya existe un bloque con ID «%s»."
+
+#: /wa-apps/site/lib/actions/pages/sitePages.actions.php:71
+msgid "Database error"
+msgstr "Error de base de datos"
+
+#: /wa-apps/site/themes/default/signup.html:4
+msgid "Thank you!"
+msgstr "¡Gracias!"
+
+#: /wa-apps/site/themes/default/signup.html:5
+msgid "You have successfully signed up."
+msgstr "Se ha registrado correctamente - registro completado con éxito"
+
+#: /wa-apps/site/themes/default/sidebar.html:4
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:41
+msgid "Revert to original"
+msgstr "Restaurar desde el original"
+
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:194
+msgid "This will reset all customizations you applied to this block. Are you sure?"
+msgstr "La recuperación del original restablecerá todos los cambios que aplicó al bloque. ¿Continuar?"
+
+#: /wa-apps/site/templates/actions/design/Design.html:61
+msgid "File will be deleted without the ability to recover. Are you sure?"
+msgstr "El archivo será eliminado sin posibilidad de recuperación. ¿Eliminar de todas formas?"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:36
+msgid "Open website in a new window"
+msgstr "Abrir sitio web en una nueva ventana"
+
+#: /wa-apps/site/js/site.js:263
+msgid "Download"
+msgstr "Descargar"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:48
+msgid "Privacy"
+msgstr "Privacidad"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:51
+msgid "Private settlement"
+msgstr "Asentamiento privado"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:52
+msgid "When this option is enabled, the settlement is treated as hidden (not published), i.e. accessible by the direct URL but not included either in the $wa->apps array or in the main Sitemaps file. The private setting is useful for temporary settlements, such as “Under Construction” pages, and for other settlements which should not be included in the core website navigation menu or indexed by search engines."
+msgstr "Cuando esta configuración está habilitada, asentamiento se considerará oculto (no público). Estará disponible en su dirección directa, pero no se incluirá en la matriz $wa->apps y el archivo principal de Sitemap. Es conveniente ocultar asentamientos temporales, por ejemplo, páginas \"El sitio está en construcción\", y los asentamientos que no deberían incluirse en el menú de navegación principal o estar indexados por los motores de búsqueda"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+msgid "Displays structured information about variable. Arrays and objects are explored recursively with values indented to show structure."
+msgstr "Muestra información detallada sobre la estructura de una variable, matriz u objeto."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+msgid "Displays structured information about variable. Arrays and objects are explored recursively with values indented to show structure. Similar to PHP var_dump($foo)"
+msgstr "Muestra información detallada sobre la estructura de una variable, matriz u objeto. Funciona como la función de PHP var_dump($foo)"
+
+#: /wa-apps/site/themes/default/index.html:46
+msgid "We are using <a href=\"http://www.webasyst.com/\">Webasyst</a>"
+msgstr "Nosotros usamos <a href=\"http://www.webasyst.com/\">Webasyst</a>"
+
+#: /wa-apps/site/themes/custom/index.html:73
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /wa-apps/site/themes/custom/index.html:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:11
+msgid "Close"
+msgstr "Cerrar"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "http://www.webasyst.com/developers/docs/creating-a-website-tutorial/"
+msgstr "http://www.webasyst.com/developers/docs/creating-a-website-tutorial/"
+
+#: /wa-apps/site/themes/vk/footer.html:4
+msgid "We are using <a href=\"http://www.webasyst.com/\" target=\"_blank\">Webasyst</a>"
+msgstr "Мы используем <a href=\"http://www.webasyst.com/\" target=\"_blank\">Webasyst</a>"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "http://www.webasyst.com/developers/docs/routing/site-app-routing/"
+msgstr "http://www.webasyst.com/developers/docs/routing/site-app-routing/"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:4
+msgid "Site structure"
+msgstr "Estructura del sitio"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:33
+msgid "Site structure is defined by routing rules. Each rule sets which app should run by which URL (web address). Similar to how folders are used to organize files on a computer, routing rules are used to create a website powered by multiple apps."
+msgstr "La estructura del sitio está determinada por las reglas de enrutamiento. Cada regla especifica la dirección en la que se ejecuta cada aplicación. De manera similar a cómo se usan las carpetas para organizar los archivos en una computadora, las reglas de enrutamiento se usan para distribuir aplicaciones entre las secciones del sitio"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:10
+msgid "Back"
+msgstr "Atrás"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:22
+msgid "Domain name"
+msgstr "Nombre de dominio"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:28
+msgid "IMPORTANT"
+msgstr "IMPORTANTE"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:28
+msgid "The URL entered must point to the root of this Webasyst framework installation."
+msgstr "La dirección ingresada debe apuntar a la carpeta raíz de la instalación de Webasyst."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:35
+msgid "Matches domain name"
+msgstr "Coincide con el nombre de dominio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:42
+msgid "Structure"
+msgstr "Estructura"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:33
+msgid "Returns path to design theme folder by <em>app_id</em> and <em>theme_id</em>."
+msgstr "Devuelve la ruta a la carpeta de temas de diseño mediante <em>app_id</em> y <em>theme_id</em>."
+
+msgid "Returns current URL of design theme folder by <em>app_id</em> and <em>theme_id</em>."
+msgstr "Devuelve la URL actual de la carpeta con los archivos de tema de diseño a  <em>app_id</em> y <em>theme_id</em>."
+
+msgid "Returns data array of a page by specified <em>app_id</em> and page <em>id</em>."
+msgstr "Devuelve la matriz de datos de la página a las páginas <em>app_id</em> y <em>id</em> especificadas."
+
+msgid "Returns array of published pages set up in the app with specified <em>app_id</em>.<br><em>$parent_id</em> denotes the ID of the parent page whose subpages must be returned. If <em>0</em> is specified (default value), all app‘s pages are returned.<br><em>$with_params = false</em> means that pages are returned their without custom parameters. By default (<em>true</em>), custom parameters are returned."
+msgstr "Devuelve una matriz de páginas de aplicaciones publicadas con el <em>app_id</em> especificado.<br><em>$parent_id</em> denota el ID de la página principal para la que desea obtener páginas anidadas. Si <em>0</em> valor predeterminado) devuelve todas las páginas de la aplicación.<br><em>$with_params = false</em> le permite obtener una matriz de páginas sin sus parámetros adicionales. El método predeterminado (<em>true</em>) devuelve páginas con parámetros adicionales"
+
+#: /wa-apps/site/themes/clear/content.html:9
+#: /wa-apps/site/themes/custom/content.html:4
+#: /wa-apps/site/themes/default/index.html:67
+#: /wa-apps/site/themes/facebook/content.html:25
+#: /wa-apps/site/themes/nifty/content.html:6
+#: /wa-apps/site/themes/sidebar/content.html:6
+#: /wa-apps/site/themes/vk/content.html:25
+msgid "Welcome to your new site!"
+msgstr "¡Bienvenido a tu nuevo sitio!"
+
+#: /wa-apps/site/themes/clear/content.html:10
+#: /wa-apps/site/themes/custom/content.html:5
+#: /wa-apps/site/themes/default/index.html:68
+#: /wa-apps/site/themes/facebook/content.html:26
+#: /wa-apps/site/themes/nifty/content.html:7
+#: /wa-apps/site/themes/sidebar/content.html:7
+#: /wa-apps/site/themes/vk/content.html:26
+msgid "Start by <a href=\"%s\">creating a page</a> in your site backend."
+msgstr "Comience por <a href=\"%s\">crear una página</a> en el backend del sitio."
+
+msgid "Start by creating a page in your <a href=\"%s\">site backend</a>."
+msgstr "Comience por crear una página en el<a href=\"%s\">backend del sitio</a>."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:19
+msgid "Website with a domain name %s is already registered in this Webasyst installation. Delete %s website (Site app > %s > Settings) to be able to use it's domain name for another website."
+msgstr "Un sitio con el nombre de dominio %s ya está registrado con esta configuración de Webasyst. Elimine el sitio %s (Aplicación del «Sitio» > %s > Configuración), para conectar este dominio a otro sitio."
+
+msgid "Incorrect domain URL: %s"
+msgstr "URL de dominio incorrecta: %s"
+
+msgid "My profile"
+msgstr "Mi perfil"
+
+#: /wa-apps/site/lib/actions/domains/siteDomainsSave.controller.php:18
+msgid "Website with a domain name %s is already registered in this Webasyst installation. Delete %s website (Site app > Settings > %s) to be able to use it's domain name for another website."
+msgstr "Un sitio con el nombre de dominio %s ya está registrado con esta configuración de Webasyst. Elimine el sitio %s (Aplicación del «Sitio» > %s > Configuración), para conectar este dominio a otro sitio."
+
+#: /wa-apps/site/lib/actions/frontend/siteFrontendMy.action.php:18
+#: /wa-apps/site/lib/actions/frontend/siteFrontendMy.action.php:28
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: /wa-apps/site/themes/default/my.profile.html:8
+msgid "Contact information successfully updated!"
+msgstr "La información de contacto se actualizó exitosamente!"
+
+#: /wa-apps/site/lib/config/logs.php:5
+msgid "added a new site"
+msgstr "se agregó un nuevo sitio"
+
+#: /wa-apps/site/lib/config/logs.php:6
+msgid "edited site settings"
+msgstr "se editaron configuraciones del sitio"
+
+#: /wa-apps/site/lib/config/logs.php:11
+msgid "deleted site"
+msgstr "se eliminó del sitio"
+
+#: /wa-apps/site/lib/config/logs.php:15
+msgid "uploaded file"
+msgstr "Archivo cargado"
+
+#: /wa-apps/site/lib/config/logs.php:18
+msgid "deleted file"
+msgstr "se eliminó archivo"
+
+#: /wa-apps/site/lib/config/logs.php:22
+msgid "added a new block for site"
+msgstr "se agregó un nuevo bloque para el sitio"
+
+#: /wa-apps/site/lib/config/logs.php:25
+msgid "edited block for site"
+msgstr "se editó un bloque para el sitio"
+
+#: /wa-apps/site/lib/config/logs.php:28
+msgid "deleted block for site"
+msgstr "se eliminó un bloque para el sitio"
+
+#: /wa-apps/site/lib/config/logs.php:32
+msgid "added a new routing rule"
+msgstr "se agregó una nueva regla de enrutamiento"
+
+#: /wa-apps/site/lib/config/logs.php:35
+msgid "edited routing rule"
+msgstr "se editó una nueva regla de enrutamiento"
+
+#: /wa-apps/site/lib/config/logs.php:38
+msgid "deleted routing rule"
+msgstr "se eliminó una nueva regla de enrutamiento"
+
+msgid "Personal account sections"
+msgstr "Secciones de cuenta personal"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:37
+msgid "Sections are determined by connected applications."
+msgstr "Las secciones están determinadas por aplicaciones conectadas."
+
+msgid "Read <a href=\"https://support.webasyst.com/29298/site-auth-settings/\" target=\"_blank\">user manual</a>."
+msgstr "Consulte la <a href=\"https://support.webasyst.com/29298/site-auth-settings/\" target=\"_blank\">user manual</a>."
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:41
+msgid "Auth & Sign Up settings"
+msgstr "Configuraciones de autorización"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:8
+msgid "This app cannot be enabled for personal accounts on this domain, because the app is not settled in this domain's routing settings. Add this app to the routing table first so it becomes published on this site, and then you’ll be able to link it in personal accounts navigation."
+msgstr "Esta aplicación no se puede habilitar en su cuenta, ya que la aplicación no está conectada a las reglas de enrutamiento del sitio. Agregue una regla de enrutamiento para esta aplicación en la configuración de la estructura del sitio, después de lo cual puede habilitarla en su cuenta."
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:9
+msgid "Setup routing"
+msgstr "Configurar enrutamiento"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:15
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:7
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Redirect disabled"
+msgstr "Deshabilitado"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:19
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:13
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Redirect enabled"
+msgstr "Habilitado"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:26
+msgid "%s personal account URL: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+msgstr "«%s» en su cuenta: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:31
+msgid "%s personal account is disabled on this site."
+msgstr "La cuenta personal de la aplicación «%s» está deshabilitada en este sitio."
+
+#: /wa-apps/site/templates/actions/personal/PersonalProfile.html:3
+msgid "Personal account profile URL: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+msgstr "Configuración del perfil en la cuenta personal: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalProfile.html:5
+msgid "My profile form fields"
+msgstr "Campos de formulario de configuración de perfil"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:1
+msgid "Authorization on %s"
+msgstr "Autorización en %s"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:16
+msgid "User sign up, authorization and personal accounts are not enabled on %s."
+msgstr "El registro, la autorización y la cuenta personal del usuario están deshabilitados en el sitio %s."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:20
+msgid "User sign up, authorization and personal accounts are enabled on %s. <a id=\"configure-app\" href=\"#\" class=\"inline-link\"><b><i>Configure URLs</i></b></a>"
+msgstr "El registro de usuario, la autorización y la cuenta personal están habilitados en %s. <a id=\"configure-app\" href=\"#\" class=\"inline-link\"><b><i>Настроить</i></b></a>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:22
+msgid "Select the app that will host authorization forms. The URLs of my profile, signup and authorization pages will be defined by the selected app routing:"
+msgstr "Seleccione la aplicación que será responsable de la funcionalidad de los formularios de registro y la autorización del usuario en este sitio. Las direcciones de las páginas de registro, inicio de sesión y cuenta personal serán determinadas por las reglas de enrutamiento de la aplicación seleccionada:"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:46
+msgid "Auth"
+msgstr "Autorización"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:176
+msgid "Confirm email on sign up"
+msgstr "Confirmar dirección de correo electrónico después del registro"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:177
+msgid "A confirmation link will be sent to user after sign up"
+msgstr "El enlace para confirmar la dirección se enviará al usuario a la dirección de correo electrónico especificada por él"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:184
+msgid "Text"
+msgstr "Texto"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:189
+msgid "Variables"
+msgstr "Variables"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:214
+msgid "Sign up form fields"
+msgstr "Campos del formulario de registro"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:231
+msgid "Edit field label"
+msgstr "Editar nombre de campo"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:236
+msgid "Edit hint for this field"
+msgstr "Editar pista para este campo"
+
+msgid "Personal data processing"
+msgstr "Procesamiento de datos personales"
+
+msgid "---INSERT A LINK HERE!---"
+msgstr "---¡INSERTE AQUÍ UN ENLACE DEL DOCUMENTO!---"
+
+msgid "I agree to %spersonal data protection policy%s"
+msgstr "Acepto los términos %s de la política de procesamiento de datos personales %s"
+
+msgid "By submitting this form I agree to %spersonal data protection policy%s"
+msgstr "Al enviar este formulario, acepto la política de protección de datos %s personales %s"
+
+msgid "Do not require consent to personal data protection policy"
+msgstr "No requiere el consentimiento de la política de protección de datos personales"
+
+msgid "Show only notice and link to policy"
+msgstr "Mostrar sólo el aviso con el enlace a la política"
+
+msgid "Show mandatory checkbox, notice, and link"
+msgstr "Sugerir para habilitar la casilla de verificación obligatoria con sugerencia y enlace"
+
+msgid "Restore original text"
+msgstr "Restaurar texto original"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:244
+msgid "Edit button label"
+msgstr "Editar texto en el botón"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:152
+msgid "Upload favicon"
+msgstr "Subir favicon"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:160
+msgid "from 152x152 and up to 1024x1024 px"
+msgstr "de 152х152 a  1024х1024 píxeles"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:178
+msgid "Personal &rarr; <a href=\"%s\">Auth &amp; Sign Up settings</a>"
+msgstr "Mi cuenta &rarr; <a href=\"%s\">Configuración de autorización</a>"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:44
+msgid "Personal"
+msgstr "Mi Cuenta"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:59
+msgid "File manager"
+msgstr "Administrador de archivos"
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:150
+msgid "Touch icon you upload here will not take effect for you website %s because your website is set for a subfolder on a domain. Touch icon uploaded using the form above will be set only for websites set from the domain root folder."
+msgstr "La imagen cargada mediante este formulario no se utilizará en el sitio %s, porque el sitio se encuentra en el subdirectorio del dominio. El icono cargado a través de este formulario sólo se puede configurar para los sitios ubicados en el directorio raíz del dominio"
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:159
+msgid "File apple-touch-icon.png exists in the Webasyst framework installation folder. The touch icon you upload here will be overridden by the icon uploaded as file unless you delete this file."
+msgstr "El archivo apple-touch-icon.png se encontró en el directorio de instalación de Webasyst. En lugar del icono almacenado en esta página, se mostrará el icono del archivo especificado."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:213
+msgid "Files with extension *.png are allowed only."
+msgstr "Sólo se permiten archivos PNG."
+
+#: /wa-apps/site/themes/default/my.profile.html:56
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+#: /wa-apps/site/themes/default/my.profile.html:69
+msgid "Delete photo"
+msgstr "Eliminar foto"
+
+#: /wa-apps/site/themes/default/signup.html:3
+msgid "You successfully confirmed email."
+msgstr "Has confirmado correctamente el correo electrónico."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:157
+msgid "Touch icon for iOS"
+msgstr "Favicon para iOS"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:160
+msgid "Upload iOS touch icon"
+msgstr "Subir iOS-favicon"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:41
+msgid "Auth &amp; Sign Up settings"
+msgstr "Configuración de autenticación y registro"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:178
+msgid "Personal &rarr; <a href=\"%s\">Auth &amp; Sign Up</a>"
+msgstr "Mi cuenta &rarr; <a href=\"%s\">Configuración de autorización</a>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalProfile.html:5
+msgid "My profile page is not available on this site, because user authorization on this site is hosted by <strong>%s</strong> app, while it’s personal account functionality is disabled. Either enable <a href=\"#/personal/app/%s/\">%s app’s personal account</a> on this site, or change the app that hosts user authorization in <a href=\"%s\">Auth &amp; Sign Up</a> settings."
+msgstr "La página de administración de perfiles en este sitio no está disponible, ya que la cuenta personal «<strong>%s</strong>», de la aplicación responsable de la funcionalidad de los formularios de registro y autorización está desactivada. Para habilitar la página de administración de perfiles, debe habilitar <a href=\"#/personal/app/%s/\">cuenta personal «%s»</a>, o <a href=\"%s\">en la configuración de autorización</a> seleccione otra aplicación que será responsable de la funcionalidad de los formularios de registro y autorización en este sitio"
+
+#: /wa-apps/site/lib/actions/routing/siteRoutingSave.controller.php:114
+msgid "The URL %s is already used by %s app. If you proceed, this will replace %s app with %s app on this URL."
+msgstr "La dirección %s ya está en uso por la aplicación «%s». Después de guardar los cambios, asentamiento de la aplicación «%s» en esta dirección se reemplazará completamente por la liquidación de la aplicación «%s»."
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:26
+msgid "%s personal account URL: <a id=\"s-app-frontend-link\" href=\"%s\" target=\"_blank\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+msgstr "«%s» en su cuenta: <a id=\"s-app-frontend-link\" href=\"%s\" target=\"_blank\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:177
+msgid "A unique email confirmation link will be sent to user after the signup. User will be able to sign in only after this confirmation link has been clicked."
+msgstr "El enlace a la confirmación de registro se enviará al usuario a la dirección de correo electrónico especificada por él. El usuario podrá iniciar sesión en el sitio sólo después de hacer clic en este enlace."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:134
+msgid "Universal Analytics"
+msgstr "Universal Analytics"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:177
+msgid "CDN"
+msgstr "CDN"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:180
+msgid "Enable CDN (Content Delivery Network) support for this site by entering CDN URL prefix."
+msgstr "Ingrese una dirección de CDN (Content Delivery Network), para habilitar su soporte automático para este sitio."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:73
+msgid "Allow “Remember me” option in authorization form on the website"
+msgstr "Puede habilitar \"Recordarme\" en forma de autorización en el sitio"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:34
+msgid "Alias (mirror site) for"
+msgstr "Sitio reflejado (un espejo)"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:85
+msgid "This is a mirror site (alias) for <strong>%s</strong>."
+msgstr "Este es un sitio espejo de<strong>%s</strong>"
+
+#: /wa-apps/site/lib/siteCustomSignup.action.php:61
+msgid "Specified email is already in use."
+msgstr "El correo electrónico especificado ya está en uso."
+
+msgid "Design"
+msgstr "Diseño"
+
+msgid "Select a language to translate text strings in website frontend."
+msgstr "Elija un idioma para traducir cadenas de texto en las páginas del sitio."
+
+msgid "If “Auto” option is selected, website language will be determined by user browser settings."
+msgstr "Si se selecciona \"Automático\", el idioma del sitio se determinará según la configuración del navegador del usuario."
+
+msgid "Files uploaded here are accessible to all website visitors without authorization. Do not upload private files."
+msgstr "Los archivos cargados aquí están disponibles para todos los visitantes del sitio sin autorización. No cargue archivos personales"
+
+msgid "Security"
+msgstr "Seguridad"
+
+msgid "Redirect to HTTPS"
+msgstr "Redirigir a HTTPS"
+
+msgid "Redirect website visitors from ordinary HTTP to secure HTTPS connection within this settlement."
+msgstr "Redirigir a los visitantes del sitio desde HTTP regular para asegurar la conexión HTTPS dentro de este asentamiento."
+
+msgid "This option will work only if an SSL certificate is installed for your domain name."
+msgstr "Esta configuración sólo funcionará si se instala un certificado SSL para su nombre de dominio."
+
+msgid "To enable redirect to HTTPS for <em>all</em> website settlements, change this option in <a href=\"%s#/settings/\">common site settings</a>."
+msgstr "ЧPara habilitar la redirección de HTTPS para <em>todos los</em> asentamientos del sitio, cambie esta configuración en la <a href=\"%s#/settings/\">configuración general del sitio</a>."
+
+msgid "Redirect website visitors from ordinary HTTP to secure HTTPS connection."
+msgstr "Redirigir a los visitantes del sitio de HTTP regular a la conexión HTTPS segura"
+
+msgid "To activate this option, <a>log in via HTTPS</a>."
+msgstr "Para activar esta configuración, <a>inicie sesión a través de HTTPS</a>."
+
+msgid "<b>WYSIWYG editor may change your HTML code.</b><br><br>It is necessary for correct text formatting. Smarty code may be broken and outdated HTML tags may be replaced with modern ones.<br><br>Are you sure to switch to WYSIWYG editor?"
+msgstr "<b>El editor WYSIWYG puede cambiar su código HTML.</b><br><br>Esto es necesario para el formato de texto adecuado. El código de Smarty puede romperse y las etiquetas HTML obsoletas pueden reemplazarse por las modernas.<br><br>¿Realmente quieres cambiar a un editor WYSIWYG?"
+
+msgid "Switch"
+msgstr "Desviar"
+
+msgid "Select Webasyst default captcha or Google reCAPTCHA"
+msgstr "Elija Webasyst estándar captcha o Google reCAPTCHA"
+
+msgid "You cannot enable redirection because your web server does not allow to distinguish HTTP from HTTPS."
+msgstr "La habilitación de la redirección no está disponible porque su servidor web no permite distinguir la conexión a través de HTTP de HTTPS."
+
+msgid "Settings have been saved"
+msgstr "Las configuraciones han sido guardadas"
+
+msgid "Your file is too large. Either raise the size limit for uploaded files in PHP configuration above %s bytes or upload a smaller file."
+msgstr "El archivo es demasiado grande. Establezca el límite de tamaño para los archivos cargados en la configuración de PHP por encima de %s bytes, o intente descargar un archivo más pequeño."
+
+msgid "General settings"
+msgstr "Configuraciones generales"
+
+msgid "Email address for notifications"
+msgstr "Dirección de correo electrónico para notificaciones"
+
+msgid "Main account administrative email where system notification will be sent."
+msgstr "Correo electrónico del administrador principal al que se enviarán las notificaciones del sistema."
+
+msgid "Sender email address"
+msgstr "Dirección de correo electrónico del remitente"
+
+msgid "Reply-To address for system email notifications sent by Webasyst."
+msgstr "Esta dirección de correo electrónico aparecerá como la dirección para las notificaciones de correo electrónico del sistema enviadas por Webasyst."
+
+msgid "Email settings"
+msgstr "Configuraciones de correo electrónico"
+
+msgid "Enter an <strong>email address</strong> to set up a transport <em>for one sender email</em>.<br>Enter a <strong>domain name</strong> to set up a transport <em>for all sender emails on that domain</em>."
+msgstr "Ingrese una dirección de  <strong>correo electrónico</strong>, para configurar el transporte por separado <em>para una dirección de remitente</em>.<br>Ingrese el <strong>nombre de dominio</strong>, para configurar el transporte <em>para todas las direcciones del remitente en este dominio</em>."
+
+msgid "Select how email messages must be sent by default from your Webasyst."
+msgstr "Seleccione cómo deben enviarse los mensajes de correo electrónico de forma predeterminada desde su Webasyst."
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "If you use different sender email addresses in your apps, then you can add extra rules to send messages from those addresses. Emails from other addresses will be sent via the transport selected in “Default” section."
+msgstr "Si utiliza diferentes direcciones de remitentes en aplicaciones individuales, puede configurar reglas adicionales para enviar mensajes para ellas. Para todas las demás direcciones, se utilizará el método de envío seleccionado en la sección \"Predeterminado\""
+
+msgid "Email transport"
+msgstr "Transporte de correo electrónico"
+
+msgid "Transport"
+msgstr "Transporte"
+
+msgid "Email or domain"
+msgstr "Email o dominio"
+
+msgid "php mail() function"
+msgstr "PHP-función mail()"
+
+msgid "Debug mailer"
+msgstr "Prueba del envío"
+
+msgid "When this option is selected messages are sent by the default transport specified in the Webasyst framework configuration."
+msgstr "Cuando se selecciona esta opción, los correos se enviarán por el transporte predeterminado especificado en la configuración de Webasyst."
+
+msgid "Some web-hosting companies allow sending email message by means of this transport only. If it is required to specify additional parameters for the mail() function you can enter them in the provided text field. The default parameters are -f%s."
+msgstr "Algunos proveedores de hosting le permiten enviar correos electrónicos solo por este transporte. Si es necesario ingresar parámetros adicionales, puede especificarlos en el cuadro de texto al seleccionar la opción \"PHP mail () function \". La opción predeterminada es -f%s."
+
+msgid "This is a default command for sending email in UNIX-like operating systems. You can edit it to use a different command for sending messages if you are an experienced server administrator."
+msgstr "Este es el comando estándar para enviar mensajes de correo electrónico en hosts de UNIX. Puede cambiarlo por otro comando del sistema para enviar mensajes si está administrando el servidor usted mismo."
+
+msgid "A special server for sending email messages. You can send email via any SMTP server for which you have connection credentials: host, port, user name, and password. It may belong either to your web-hosting company or to a public mail service such as Gmail, Yahoo! Mail, Outlook.com, etc."
+msgstr "Servidor especial para enviar correos electrónicos. Los mensajes pueden enviarse a través de cualquier servidor SMTP para el que tenga su dirección, número de puerto, nombre de usuario (inicio de sesión) y contraseña. Puede ser su servidor SMTP de alojamiento. Proveedor o servicio de correo público: Mail.ru, Gmail, etc."
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Command"
+msgstr "Comando"
+
+msgid "Encryption"
+msgstr "El cifrado"
+
+msgid "None"
+msgstr "No"
+
+msgid "You need to install openssl php extention to use DKIM"
+msgstr "Necesitas instalar la extensión openssl php para usar DKIM"
+
+msgid "You need PHP version 5.3 or higher to use DKIM. Your current version is:"
+msgstr "Para usar DKIM, necesitas la versión de PHP 5.3 o superior. Versión actual:"
+
+msgid "Extension openssl is not installed"
+msgstr "La extensión openssl no está instalada"
+
+msgid "Failed to create DKIM signature"
+msgstr "No se pudo generar la clave DKIM"
+
+msgid "Enter an email address in “Sender” field to use DKIM."
+msgstr "Para usar DKIM, ingrese la dirección de correo electrónico en el campo \"Remitente\"."
+
+msgid "Add a DKIM signature to outgoing email messages to confirm your ownership of the sender’s email address."
+msgstr "Agregue una firma DKIM a los mensajes de correo electrónico salientes para confirmar su dirección de correo electrónico."
+
+msgid "Add a new <b>TXT record</b> with this public DKIM key to the DNS zone of domain name"
+msgstr "Agregue un nuevo <b>registro TXT</b> con esta clave pública DKIM a la zona DNS del dominio"
+
+msgid "Host "
+msgstr "Host"
+
+msgid "Domain"
+msgstr "Dominio"
+
+msgid "Record type"
+msgstr "Tipo de registro"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Add email sending rule"
+msgstr "Agregar regla de envío de correo electrónico"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Maps settings"
+msgstr "Configuraciones de mapas"
+
+msgid "Select an online map service to display maps."
+msgstr "Seleccione un servicio de mapas para visualizar mapas en línea."
+
+msgid "Map service"
+msgstr "Servicio de mapas"
+
+msgid "No map services available"
+msgstr "No hay servicios de mapas disponibles"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Captcha settings"
+msgstr "Configuraciones de Captcha"
+
+msgid "Select a type of captcha to be used on your websites."
+msgstr "Seleccione un tipo de captcha para usar en sus sitios web."
+
+msgid "Captcha type"
+msgstr "Tipo de Captcha"
+
+msgid "Invisible mode"
+msgstr "Modo invisible"
+
+msgid "Get site key and secret for your website"
+msgstr "Obtener valores para su sitio web"
+
+msgid "You have no rules set up for %s app."
+msgid_plural "You have no rules set up for %s apps."
+msgstr[0] "No hay reglas para la aplicación «%s»."
+msgstr[1] "No hay reglas para las aplicaciones «%s»."
+msgstr[2] "No hay reglas para las aplicaciones «%s»."
+
+msgid "Some rules of %s app are incorrect."
+msgid_plural "Some rules of %s apps are incorrect."
+msgstr[0] "Algunas reglas de la aplicación «%s» están configuradas incorrectamente."
+msgstr[1] "Algunas reglas de las aplicaciones «%s» están configuradas incorrectamente."
+msgstr[2] "Algunas reglas de las aplicaciones «%s» están configuradas incorrectamente."
+
+msgid "”, “"
+msgstr "”, “"
+
+msgid "Site structure error notifications"
+msgstr "Notificaciones de errores en la estructura del sitio"
+
+msgid "Show error notifications in site structure settings."
+msgstr "Mostrar notificaciones de errores en la estructura del sitio."
+
+msgid "Site settings"
+msgstr "Configuraciones del sitio"
+
+msgid "System settings"
+msgstr "Configuraciones del sistema"
+
+msgid "Website address"
+msgstr "Dirección del sitio web"
+
+msgid "Your website, blog or company URL (will be displayed as a link below the company name in the top left corner)."
+msgstr "La dirección de su sitio web o blog (se mostrará como un enlace debajo del nombre de la compañía en la esquina superior izquierda)."
+
+msgid "Locale of software available for installation in Installer"
+msgstr "Idioma de los productos de software disponibles para su instalación en \"El Instalador\""
+
+msgid "Allow “Remember me” option in Webasyst backend authorization form"
+msgstr "Permitir la opción \"Recordarme\" en el formulario de autorización de back-end de Webasyst"
+
+msgid "Auto-login"
+msgstr "Autorización automática"
+
+msgid "Login only"
+msgstr "Sólo login"
+
+msgid "Login or email"
+msgstr "Login o email"
+
+msgid "Authorization form background image"
+msgstr "Fondo de formulario de inicio de sesión"
+
+msgid "Stretch to fill entire screen"
+msgstr "Extender la imagen a pantalla completa"
+
+msgid "Localization engine"
+msgstr "Mecanismo de localización"
+
+msgid "Gettext (recommended)"
+msgstr "Gettext (recomendado)"
+
+msgid "Delete authorization form background image?"
+msgstr "¿Borrar la imagen de fondo del formulario de autorización?"
+
+msgid "For developers"
+msgstr "Para desarrollador"
+
+msgid "Developer mode"
+msgstr "Régimen desarrollo web (modo de depuración)"
+
+msgid "Debug mode disables caching and enables verbose error messages. Recommended for debugging and during software development."
+msgstr "Régimen desarrollo web (El modo de depuración) desactiva el almacenamiento en caché y habilita los mensajes de error detallados. Recomendado para la depuración y durante el desarrollo del software."
+
+msgid "Clear cache"
+msgstr "Borrar caché"
+
+msgid "CDN address"
+msgstr "Dirección CDN"
+
+msgid "Custom text"
+msgstr "Texto personalizado"
+
+msgid "Text to be returned at specified URL"
+msgstr "Texto que estará disponible en la URL especificada"
+
+msgid "Content type"
+msgstr "Tipo de contenido"
+
+msgid "file"
+msgstr "archivo"
+
+msgid "text (text/plain)"
+msgstr "texto (text/plain)"
+
+msgid "HTML code (text/html)"
+msgstr "HTML-código (text/html)"
+
+msgid "If content type “file” is selected, downloading of a file will start automatically if there is no extension in its name."
+msgstr "Si se selecciona el tipo de contenido \"archivo\", el archivo comenzará a descargarse automáticamente si la extensión no se especifica en su nombre."
+
+msgid "This rule is disabled because it is placed below a more general rule. Move this rule higher in the list to enable it."
+msgstr "Esta regla está deshabilitada porque está por debajo de la regla más general. Mueva la regla anterior para habilitarla"
+
+msgid "Delete route"
+msgstr "Eliminar regla"
+
+msgid "You are about to delete the only routing rule set up for <b>%s</b> app."
+msgstr "Está eliminando la única regla de enrutamiento configurada para la aplicación «<b>%s</b>»."
+
+msgid "This will limit its functionality. Delete the rule?"
+msgstr "Esto limitará su funcionalidad. ¿Eliminar la regla?"
+
+msgid "Deleting this site will also delete routing rules set up for installed apps. This will limit their functionality. Delete the site?"
+msgstr "Las reglas de enrutamiento para las aplicaciones instaladas se eliminarán junto con el sitio. Esto limitará su funcionalidad. ¿Eliminar el sitio?"
+
+msgid "Deleting this site will also delete routing rules set up for <b>%s</b> app. This will limit its functionality.</p><p>Upon site deletion, set up routing rules for this app in the structure settings of remaining sites to continue using all functions."
+msgid_plural "Deleting this site will also delete routing rules set up for <b>%s</b> apps. This will limit their functionality.</p><p>Upon site deletion, set up routing rules for these apps in the structure settings of remaining sites to continue using all functions."
+msgstr[0] "Al eliminar un sitio, se eliminarán las reglas de enrutamiento para la aplicación <b>«%s»</b>. Esto puede limitar su funcionalidad.</p><p>Después de eliminar el sitio, agregue las reglas de enrutamiento para esta aplicación en la estructura Los sitios restantes para seguir utilizando todas las características."
+msgstr[1] "Al eliminar un sitio, se eliminarán las reglas de enrutamiento para las aplicaciónes <b>«%s»</b>. Esto puede limitar su funcionalidad.</p><p>Después de eliminar el sitio, agregue las reglas de enrutamiento para estos aplicaciónes en las estructuras de los sitios restantes para seguir utilizando todas las características."
+msgstr[2] "Al eliminar un sitio, se eliminarán las reglas de enrutamiento para las aplicaciónes <b>«%s»</b>. Esto puede limitar su funcionalidad.</p><p>Después de eliminar el sitio, agregue las reglas de enrutamiento para estos aplicaciónes en las estructuras de los sitios restantes para seguir utilizando todas las características"
+
+msgid "”</b>, <b>“"
+msgstr "”</b>, <b>“"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Login and signup settings"
+msgstr "Configuración de inicio de sesión y registro"
+
+msgid "Login and signup settings for %s"
+msgstr "Configuración de inicio de sesión y registro para %s"
+
+msgid "User personal area"
+msgstr "Cuenta personal del usuario"
+
+msgid "Site section for login and signup"
+msgstr "Sección del sitio para autorización y registro"
+
+msgid "Select app"
+msgstr "Selecciona aplicación"
+
+msgid "Ways of login and registration"
+msgstr "Métodos de ingreso y registro"
+
+msgid "Social networks (additional authorization option)"
+msgstr "Redes sociales (método de inicio de sesión adicional)"
+
+msgid "Signup form"
+msgstr "Formulario de registro"
+
+msgid "Login form"
+msgstr "Formulario de inicio de sesión"
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "Site key"
+msgstr "Clave del sitio"
+
+msgid "Secret key"
+msgstr "Clave secreta"
+
+msgid "authorization enabled"
+msgstr "autorización habilitada"
+
+msgid "authorization disabled"
+msgstr "autorización deshabilitada"
+
+msgid "Set up how website visitors will log in and sign up on your website."
+msgstr "Configure cómo los visitantes iniciarán sesión y se registrarán en el sitio."
+
+msgid "Login & signup forms"
+msgstr "Formularios de inicio de sesión y registro"
+
+msgid "Set up fields website visitors will need to complete in login and signup forms."
+msgstr "Configure los campos del formulario de inicio de sesión y registro que los visitantes del sitio completarán"
+
+msgid "A signup confirmation link or code will be sent in a notification."
+msgstr "En la notificación se enviará un enlace o código para confirmar el registro."
+
+msgid "A registered website visitor will be able to log in only with an email address or phone number confirmed."
+msgstr "El visitante registrado podrá iniciar sesión sólo después de confirmar la dirección de correo electrónico o el número de teléfono."
+
+msgid "Wait for specified number of seconds before sending next one-time password"
+msgstr "Período de espera en segundos antes de enviar el siguiente código de un solo uso"
+
+msgid "Confirm signup"
+msgstr "Confirmar registro"
+
+msgid "Passwords type"
+msgstr "Sistema de contraseñas"
+
+msgid "Successful signup notification"
+msgstr "Notificación de finalización de registro"
+
+msgid "Send successful signup notifications to users"
+msgstr "Enviar a los usuarios una notificación de que el registro se ha completado"
+
+msgid "Select a group of notification templates to be used for sending login, signup, and password recovery notifications."
+msgstr "Seleccione un grupo de plantillas de notificación para enviar notificaciones cuando inicie sesión, regístrese y cambie su contraseña."
+
+msgid "Edit email notification templates in <a href=\"%s\">Settings</a> app"
+msgstr "Cambie las plantillas de notificación de correo electrónico en la «<a href=\"%s\">Configuraciónes</a>»."
+
+msgid "Edit SMS notification templates in <a href=\"%s\">Settings</a> app"
+msgstr "Cambie las plantillas de notificación de SMS en la aplicación «<a href=\"%s\">Configuraciónes</a>»."
+
+msgid "User notifications"
+msgstr "Notificaciones de usuario"
+
+msgid "Notification templates"
+msgstr "Plantillas de notificaciónes"
+
+msgid "Priority over email notifications"
+msgstr "Prioridad sobre las notificaciones por correo electrónico"
+
+msgid "Prefer SMS over email for sending notifications. In case of SMS sending failure, email will be sent as a replacement." 
+msgstr "Prioridad de SMS sobre el correo electrónico cuando se envían notificaciones. En caso de que no se envíe el SMS, se enviará una notificación por correo electrónico."
+
+msgid "A user must enter characters shown in an image"
+msgstr "Un usuario debe ingresar los caracteres mostrados en una imagen"
+
+msgid "“Remember me” option"
+msgstr "Casilla de verificación «Recordarme» "
+
+msgid "Email or phone"
+msgstr "Correo electrónico o teléfono"
+
+msgid "Cannot disable both authorization options “Email” &amp; “Phone”"
+msgstr "No puede deshabilitar ambos métodos de autorización \"Correo electrónico\" y \"Teléfono\""
+
+msgid "Keep at least one of these two basic authorization option enabled for website visitors to be able to log into their accounts."
+msgstr "Deje al menos uno de estos dos métodos de autorización básicos habilitados para que los visitantes del sitio puedan iniciar sesión en su cuenta personal."
+
+msgid "Authorization with an email address is used by default."
+msgstr "La autorización mediante la dirección de correo electrónico se utiliza de forma predeterminada."
+
+msgid "Services"
+msgstr "Servicios"
+
+msgid "Invisible captcha will be used"
+msgstr "Se utilizará el captcha invisible"
+
+msgid "Authorization type"
+msgstr "Tipo de autorización"
+
+msgid "Require captcha input"
+msgstr "Requerir entrada captcha"
+
+msgid "Login field placeholder"
+msgstr "Marcador de posición en el campo de inicio de sesión"
+
+msgid "Communication channel selection"
+msgstr "Seleccionar canal de comunicación"
+
+msgid "Login, signup, and personal account"
+msgstr "Login, registro y cuenta personal"
+
+msgid "Delete this site alias? It will <strong>not</strong> delete any data of the main site."
+msgstr "¿Eliminar este espejo del sitio? Ningún dato del sitio principal<strong>no&nbsp;seran</strong> eliminado."
+
+msgid "Waiting period in seconds before sending next verification code:"
+msgstr "Intervalo en segundos antes de enviar el siguiente código de confirmación:"
+
+msgid "Verification code re-sending"
+msgstr "Reenvío del código de verificación"
+
+msgid "Add SMS notification templates in <a href=\"%s\">Settings</a> app."
+msgstr "Agregue plantillas de notificación de SMS en la \"Aplicación\" «<a href=\"%s\">Configuraciónes</a>»."
+
+msgid "Authorization by login name"
+msgstr "Autorización por nombre de usuario"
+
+msgid "Enable to allow backend users to log in on the website with their login names. Only login names different from phone numbers, i.e. containing characters other than digits, are supported."
+msgstr "Permitir que los usuarios back-end puedan iniciar sesión con sus nombres de usuario. Los nombres de usuario que difieren de los números de teléfono, es decir, que consisten no sólo en números, son compatibles."
+
+msgid "No sender email address specified in “<a href=\"%s\">Email settings</a>” section of Settings app."
+msgstr "No se especificó la dirección de correo electrónico del remitente en la sección «<a href=\"%s\">configuración de correo electrónico</a>» de la aplicación \"Configuración.\""
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:142
+msgid "Language"
+msgstr "Idioma"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:233
+msgid "App [%s] deleted or disabled."
+msgstr "La aplicación [%s] eliminada o deshabilitada."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:124
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:161
+msgid "Email"
+msgstr "Email"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:125
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:255
+msgid "Phone"
+msgstr "Teléfono"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:182
+msgid "Edit the list in “<a href=\"%s\">Email&nbsp;templates</a>” section."
+msgstr "Edite la lista en la sección «<a href=\"%s\">Email-templates</a>»."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:381
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+msgid "National direct-dialing code (NDD)"
+msgstr "Código-prefijo telefónico para llamadas locales (National direct-dialing code NDD)"
+
+msgid "Enter the NDD code which is used for making calls within your country."
+msgstr "Ingrese el código-prefijo telefónico para llamadas locales en su país . Código de ejemplo para España: 00 + 34."
+
+msgid "The NDD, if specified, will be replaced with the country code in website visitors’ phone numbers."
+msgstr "Si se especifica un código-prefijo telefónico para llamadas locales, en los números de teléfono de los visitantes será cambiado por un código telefónico del país ."
+
+msgid "Country code"
+msgstr "Código del país"
+
+msgid "Enter your country’s phone number code to be used in website visitors’ phone numbers instead of the NDD."
+msgstr "El código internacional de su país que se utilizará en los números de teléfono de los visitantes del sitio en lugar del código-prefijo telefónico para llamadas locales."
+
+msgid "Enter digits only"
+msgstr "Ingrese sólo dígitos"
+
+msgid "Temporary redirecting"
+msgstr "Redireccionamiento temporal"
+
+msgid "Use server response code 302"
+msgstr "Usar el código de respuesta del servidor 302"
+
+msgid "Enable for <strong>temproray</strong> redirecting only, which you are planning to cancel in the future."
+msgstr "Habilitar sólo para la <strong>redirección temporal</strong> que planeas cancelar en el futuro."
+
+msgid "Disable for <strong>permanent</strong> redirecting with server response code 301, which is used to inform search engines that the new URL should be indexed instead of the old one."
+msgstr "Deshabilite el uso de la <strong>redirección permanente</strong>con el código de respuesta del servidor 301: les dice a los motores de búsqueda que la nueva URL debe ser indexada en lugar de la anterior"

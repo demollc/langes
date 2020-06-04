@@ -1,0 +1,1648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebAsyst\n"
+"POT-Creation-Date: 2011-05-11 17:22+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: WebAsyst Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.6\n"
+"Language: es_Es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:21
+msgid "Application"
+msgstr "Aplicación"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:22
+msgid "Version"
+msgstr "Versión"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:32
+msgid "Installed"
+msgstr "Instalado"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:34
+msgid "Application is disabled"
+msgstr "La aplicación está deshabilitada"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:39
+msgid "Application is enabled"
+msgstr "La aplicación está habilitada"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:42
+msgid "Install"
+msgstr "Instalar"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:48
+msgid "App can not be updated due to unresolved conflicts:"
+msgstr "La aplicación no se pudo actualizar debido a conflictos no resueltos:"
+
+msgid "Do you confirm the installation?"
+msgstr "¿Confirmas la instalación?"
+
+msgid "This will delete application source code and data without the ability to recover. Are you sure?"
+msgstr "Esto borrará completamente el código y los datos de la aplicación sin recuperación. ¿Estás seguro?"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:29
+msgid "Applications"
+msgstr "Aplicaciones"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:35
+msgid "Updates"
+msgstr "Actualizaciones"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:40
+msgid "Settings"
+msgstr "Configuración"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:62
+msgid "Installer"
+msgstr "Instalador"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:12
+msgid "Company name"
+msgstr "Nombre de la empresa"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:21
+msgid "Website address"
+msgstr "Dirección del sitio web"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:25
+msgid "Your website, blog or company URL (will be displayed as a link below the company name in the top left corner)."
+msgstr "La dirección de su sitio web o blog (se mostrará como un enlace debajo del nombre de la empresa en la esquina superior izquierda)."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:33
+msgid "Default Webasyst interface language"
+msgstr "Idioma de interfaz predeterminado de Webasyst"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:51
+msgid "Email"
+msgstr "Email"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:79
+msgid "User authentication"
+msgstr "Autorización de usuarios"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:82
+msgid "Login only"
+msgstr "Sólo iniciar sesión"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:85
+msgid "Login or email"
+msgstr "Iniciar sesión o correo electrónico"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:91
+msgid "Authorization form background image"
+msgstr "Fondo del formulario de inicio de sesión"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:105
+msgid "Stretch to fill entire screen"
+msgstr "Estirar imagen a pantalla completa"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:114
+msgid "Save"
+msgstr "Guardar"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:12
+msgid "Update all"
+msgstr "Instalar todas las actualizaciones"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:46
+msgid "Update now"
+msgstr "Actualizar"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:53
+msgid "Latest version"
+msgstr "Última versión"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:60
+msgid "Updates are not available for this application."
+msgstr "Las actualizaciones para esta aplicación no están disponibles."
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:21
+msgid "Preparing"
+msgstr "Preparación para la instalación"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:22
+msgid "Creating backup"
+msgstr "Copia de seguridad de la versión actual"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:23
+msgid "Downloading new version"
+msgstr "Descargando nueva versión"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:24
+msgid "Extracting downloaded files"
+msgstr "Extrayendo archivos descargados"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:25
+msgid "Replacing files"
+msgstr "Sustitución de archivos antiguos a archivos actualizados"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:26
+msgid "Cleaning up"
+msgstr "Eliminación de archivos temporales"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:27
+msgid "Update"
+msgstr "Actualizar"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:31
+msgid "Resuming"
+msgstr "Reanudación"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:32
+msgid "Standing by"
+msgstr "Esperando"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:33
+msgid "Error occurred"
+msgstr "Se produjo un error"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:52
+msgid "Installation completed"
+msgstr "Instalación completada"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:62
+msgid "Current version"
+msgstr "Versión actual"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:63
+msgid "New version"
+msgstr "Nueva versión"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:89
+msgid "Allow \"Remember me\" option in Webasyst authorization form"
+msgstr "Puedes activar \"Recordarme\" cuando inicies sesión en Webasyst"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:63
+msgid "An error occurred during installation"
+msgstr "Se produjo un error durante la instalación"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:66
+msgid "Applications were successfully installed"
+msgstr "Las aplicaciones se instalaron correctamente"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:69
+msgid "View installation log"
+msgstr "Ver registro de instalación"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:55
+msgid "Reply-To address for system email notifications sent by Webasyst."
+msgstr "Esta dirección de correo electrónico se indicará como la dirección de devolución en las notificaciones por correo electrónico del sistema enviadas por Webasyst."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:94
+msgid "Delete authorization form background image?"
+msgstr "¿Eliminar imagen de fondo del formulario de inicio de sesión?"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:94
+msgid "Delete"
+msgstr "Eliminar"
+
+#: /wa-apps/installer/lib/actions/settings/installerSettings.action.php:36
+msgid "Settings saved"
+msgstr "Configuraciones guardadas"
+
+#: /wa-apps/installer/lib/actions/settings/installerSettings.action.php:52
+msgid "Image uploaded"
+msgstr "Imagen cargada"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:105
+msgid "Please install updates for the proper verification requirements"
+msgstr "Actualice la aplicación «Instalador» para verificar correctamente los requisitos del sistema"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:184
+msgid "extension %s has %s version but should be %s %s"
+msgstr "Requiere la versión de extensión «%1$s» %3$s %4$s (la versión actual es — %2$s)"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:184
+msgid "extension %s has %s version but recomended is %s %s"
+msgstr "Versión de extensión recomendada «%1$s» %3$s %4$s (la versión actual es — %2$s)"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:196
+msgid "extension %s not loaded"
+msgstr "Extensión «%s» no cargada"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:208
+msgid "PHP has version %s but should be %s %s"
+msgstr "Requiere la versión de PHP %2$s %3$s, la versión actual %1$s"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:237
+msgid "%s has %s version but should be %s %s"
+msgstr "Requiere «%1$s» versión %3$s %4$s (la versión actual — %2$s)"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:237
+msgid "%s has %s version but recomended is %s %s"
+msgstr "Recomendado «%1$s» versión %3$s %4$s (la versión actual — %2$s)"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:249
+msgid "%s not installed"
+msgstr "Aplicación «%s» no instalada"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:280
+msgid "%s should be writeable"
+msgstr "Los archivos (carpetas) %s deben tener permisos de escritura"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:284
+msgid "%s is writeable"
+msgstr "Archivos (carpetas) %s están disponibles para escritura"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:302
+msgid "server module loaded"
+msgstr "módulo de servidor cargado"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:306
+msgid "server module not loaded"
+msgstr "módulo de servidor no cargado"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:310
+msgid "not Apache server"
+msgstr "No se pudo obtener la lista de módulos de servidor instalados"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:313
+msgid "CGI PHP mode"
+msgstr "PHP ejecutándose en modo CGI"
+
+msgid "PHP version"
+msgstr "Versión PHP"
+
+msgid "PHP extension %s"
+msgstr "Extensión PHP: %s"
+
+msgid "PHP setting %s"
+msgstr "Configuración de PHP: %s"
+
+msgid "Version of %s"
+msgstr "%s, versión"
+
+msgid "Files access rights"
+msgstr "Permisos para archivos y directorios"
+
+msgid "Files checksum"
+msgstr "La suma de archivos de control"
+
+msgid "Server module %s"
+msgstr "Módulo del servidor: %s"
+
+msgid "Server software version"
+msgstr "Servidor web"
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:141
+msgid "Value of PHP configuration parameter %s: %s. Required value: %s."
+msgstr "Valor del parámetro de configuración de PHP %s: %s. Valor requerido: %s."
+
+#: /wa-apps/installer/lib/classes/wainstallerrequirements.class.php:141
+msgid "Value of PHP configuration parameter %s: %s. Recommended value: %s."
+msgstr "Valor del parámetro de configuración de PHP %s: %s. Valor recomendado: %s."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:93
+msgid "B,KB,MB"
+msgstr "Б,КБ,МБ"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:61
+msgid "Download installation log"
+msgstr "Descargar registro de instalación"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:72
+msgid "Application list is downloaded from webasyst.com website. Every application is installed in a single \"Install\" button click."
+msgstr ""
+"La lista de aplicaciones disponibles para la instalación se descarga desde webasyst.com. La instalación de las aplicaciones se realiza con un clic en el botón \"Instalar\"."
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:8
+msgid "All applications"
+msgstr "Todas las aplicaciones"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:22
+msgid "Developer"
+msgstr "Desarrollador"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:26
+msgid "Size"
+msgstr "Tamaño"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:27
+msgid "License"
+msgstr "Licencia"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:46
+msgid "Application will be downloaded from Webasyst server and added into your installation."
+msgstr "La aplicación se descargará del servidor Webasyst y se instalará automáticamente."
+
+#: /wa-apps/installer/lib/actions/apps/installerAppsInfo.action.php:31
+msgid "Application \"%s\""
+msgstr "Aplicación «%s»"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:97
+msgid "File not found"
+msgstr "Archivo no encontrado"
+
+#: /wa-apps/installer/lib/actions/apps/installerAppsRemove.action.php:55
+msgid "Application not found"
+msgstr "Aplicación no encontrada"
+
+#: /wa-apps/installer/lib/actions/apps/installerAppsRemove.action.php:18
+msgid "Unable to delete application (developer version is on)"
+msgstr "Aplicación no eliminada: hay una carpeta en el directorio con el nombre .svn o .git"
+
+#: /wa-apps/installer/lib/actions/apps/installerAppsRemove.action.php:24
+msgid "Can not delete system application \"%s\""
+msgstr "No se puede desinstalar la aplicación del sistema «%s»"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:68
+msgid "Update to version %s is available."
+msgstr "La actualización a la versión %s está disponible."
+
+#: /wa-apps/installer/lib/actions/settings/installerSettingsRemove.action.php:16
+msgid "Image deleted"
+msgstr "Imagen de fondo eliminada"
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:36
+msgid "Update is already in progress. Please wait while previous update session is finished before starting update session again."
+msgstr ""
+"La actualización ya se inició y aún no se ha completado. Espere hasta el final de la sesión de actualización anterior antes de comenzar de nuevo."
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:50
+msgid "application successfully installed"
+msgid_plural "applications successfully installed"
+msgstr[0] "instalada correctamente"
+msgstr[1] "instaladas correctamente"
+msgstr[2] "instaladas correctamente"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:57
+msgid "application failed to install"
+msgid_plural "applications failed to install"
+msgstr[0] "no instalada"
+msgstr[1] "no instaladas"
+msgstr[2] "no instaladas"
+
+#: /wa-apps/installer/lib/actions/apps/installerAppsInstall.action.php:34
+msgid "Application  %s has been installed"
+msgid_plural "Applications  %s have been installed"
+msgstr[0] "Aplicación «%s» instalada"
+msgstr[1] "Aplicaciónes «%s» instaladas"
+msgstr[2] "Aplicaciónes «%s» instaladas"
+
+#: /wa-apps/installer/lib/actions/apps/installerAppsRemove.action.php:59
+msgid "Application %s has been deleted"
+msgid_plural "Applications %s have been deleted"
+msgstr[0] "La aplicación «%s» ha sido eliminada"
+msgstr[1] "Aplicaciones «%s» han sido eliminadas"
+msgstr[2] "Aplicaciones «%s» han sido eliminadas"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:87
+msgid "Installing the application"
+msgid_plural "Installing applications"
+msgstr[0] "Instalación"
+msgstr[1] "Instalación"
+msgstr[2] "Instalación"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:113
+msgid "Developer mode"
+msgstr "Modo-desarrollo (debug mode)"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:118
+msgid "Recommended while development"
+msgstr "El modo de desarrollo deshabilita el almacenamiento en caché y permite informes detallados de errores. Se recomienda que habilite esto cuando desarrolle aplicaciones."
+
+msgid "<"
+msgstr "menos"
+
+msgid "<="
+msgstr "no más que"
+
+msgid "="
+msgstr "igual"
+
+msgid ">"
+msgstr "más"
+
+msgid ">="
+msgstr "no menos de"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:36
+msgid "Plugins"
+msgstr "Plugins"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:41
+msgid "Themes"
+msgstr "Temas de diseño"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:69
+msgid "App plugin can not be installed due to unresolved conflicts:"
+msgstr "Plugin no se pudo instalar debido a conflictos no resueltos:"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:75
+msgid "This will delete application plugin source code and data without the ability to recover. Are you sure?"
+msgstr "Esto eliminará por completo el código y los datos de extensión sin recuperación. ¿Estás seguro?"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:83
+msgid "There are no available plugins for the application"
+msgstr "La aplicación no tiene complementos disponibles"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:69
+msgid "App theme can not be installed"
+msgstr "El tema de diseño no se puede instalar"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:75
+msgid "This will delete application theme code and data without the ability to recover. Are you sure?"
+msgstr "Esto eliminará completamente el código y los datos del tema sin recuperación. ¿Estás seguro?"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:88
+msgid "There are no available themes for the the application"
+msgstr "No hay temas disponibles para la aplicación"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:54
+msgid "Nothing to update"
+msgstr "No hay actualizaciones disponibles para la instalación"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:65
+msgid "Updates are not available for this item."
+msgstr "No hay actualización para el producto seleccionado."
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:87
+msgid "Please select items for update"
+msgstr "Seleccione productos para actualizar"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:44
+msgid "Unable to delete application's themes (developer version is on)"
+msgstr "El tema de diseño no se ha eliminado: hay una carpeta en el directorio con el nombre .svn o .git"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:45
+msgid "Unable to delete application's plugins (developer version is on)"
+msgstr "Plugin no se ha eliminado: hay una carpeta en el directorio con el nombre .svn o .git"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:81
+msgid "Application themes not found"
+msgstr "No se encontraron temas de diseño"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:82
+msgid "Application plugins not found"
+msgstr "No se encontraron plugins"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:75
+msgid "Can not delete system application's themes \"%s\""
+msgstr "No se puede eliminar el tema «%s»"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:76
+msgid "Can not delete system application's plugins \"%s\""
+msgstr "No se puede eliminar el Plugin «%s»"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:94
+msgid "Application plugin %s has been deleted"
+msgid_plural "Application plugins %s have been deleted"
+msgstr[0] "Plugin «%s» eliminado"
+msgstr[1] "Plugins «%s» eliminados"
+msgstr[2] "Plugins «%s» eliminados"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:95
+msgid "Application theme %s has been deleted"
+msgid_plural "Application themes %s have been deleted"
+msgstr[0] "El tema «%s» ha sido eliminado"
+msgstr[1] "Temas «%s» han sido eliminados"
+msgstr[2] "Temas «%s» han sido eliminados"
+
+#: /wa-apps/installer/templates/actions/backend/Backend.html:61
+msgid "Checkup"
+msgstr "Verificar"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:95
+msgid "Plugins list is downloaded from webasyst.com website. Every plugin is installed in a single \"Install\" button click."
+msgstr "La lista de Plugins se descarga de webasyst.com. La instalación es automática cuando hace clic en el botón Instalar."
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:27
+msgid "No applications with support for themes"
+msgstr "No se han instalado aplicaciones que admitan trabajar con los temas de diseño."
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:112
+msgid "Themes list is downloaded from webasyst.com website. Every application is installed in a single \"Install\" button click."
+msgstr "La lista de temas se descarga del sitio web webasyst.com. Cada aplicación se instala con un solo clic en el botón \"Instalar\"."
+
+#: /wa-apps/installer/templates/actions/update/Update.html:54
+msgid "All apps are up to date."
+msgstr "Se han instaladas las últimas versiones de todas las aplicaciones."
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:26
+msgid "No applications with support for plugins"
+msgstr "No se instalan aplicaciones que soporten plug-ins."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:126
+msgid "Clear cache"
+msgstr "Borrar caché"
+
+#: wa-apps/installer/lib/actions/settings/installerSettingsClearCache.controller.php:11
+msgid "Cache cleared"
+msgstr "Caché borrado"
+
+msgid "Webasyst version"
+msgstr "Versión de Webasyst"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:28
+msgid "License expired or invalid"
+msgstr "La licencia ha caducado o la licencia no es válida."
+
+msgid "License is invalid"
+msgstr "La licencia no es válida"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:40
+msgid "Renew license"
+msgstr "Renovar licencia"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:59
+msgid "This application is not available for purchase"
+msgstr "Esta aplicación no está disponible para la compra."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:15
+msgid "Buy for"
+msgstr "Comprar para"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:28
+msgid "Payware"
+msgstr "Aplicación de pago"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:28
+msgid "Correct license"
+msgstr "El número de licencia correcto"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:17
+msgid "In use"
+msgstr "En uso"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:24
+msgid "Free"
+msgstr "Gratis"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:57
+msgid "Renew for"
+msgstr "Renovar por"
+
+#: /wa-apps/installer/lib/actions/themes/installerThemesInfo.action.php:45
+msgid "Theme not found"
+msgstr "Tema no encontrado"
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:97
+msgid "Installer & system"
+msgstr "Instalador y núcleo de la estructura"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:25
+msgid "No plugin enabled apps are installed."
+msgstr "No hay aplicaciones habilitadas para plugins instaladas."
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:91
+msgid "Plugins are downloaded from webasyst.com website and installed in a single click."
+msgstr "Los plug-ins se descargan desde webasyst.com y se instalan con un solo clic."
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:28
+msgid "No design theme enabled apps installed."
+msgstr "No hay aplicaciones habilitadas para temas de diseño instaladas."
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:66
+msgid "Design theme can not be installed"
+msgstr "El tema del diseño no se puede instalar."
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:71
+msgid "This will delete this design theme templates and files without the ability to recover. Are you sure?"
+msgstr "Esto eliminará las plantillas y archivos de este tema de diseño sin la capacidad de recuperación. ¿Estás seguro?"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:86
+msgid "No design themes are available for this application."
+msgstr "No hay temas de diseño disponibles para esta aplicación."
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:99
+msgid "Design themes are downloaded from webasyst.com website and installed in a single click."
+msgstr "Los temas de diseño se descargan de webasyst.com y se instalan con un solo clic."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:11
+msgid "No thumbnail available"
+msgstr "Vista previa no disponible"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:29
+msgid "Theme %s is now in use on"
+msgstr "El tema «%s» se usa en la dirección"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:58
+msgid "Theme “%s” is installed, but not used by any apps. To start using this theme, apply it in your Site app's Routing settings."
+msgstr ""
+"El tema  «%s» está instalado, pero no es utilizado por ninguna aplicación. Para habilitar este tema, selecciónelo en los ajustes enrutando la aplicación del \"Sitio\"."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:65
+msgid "or"
+msgstr "o"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:80
+msgid "Buy"
+msgstr "Comprar"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:84
+msgid "Install theme \"%s\" for the %s app?"
+msgstr "Establecer el tema \"%s\" para la aplicación %s?"
+
+#: /wa-apps/installer/templates/includes/requirements.html:34
+msgid "more"
+msgstr "más"
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:81
+msgid "Webasyst Framework"
+msgstr "Webasyst Framework"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:18
+msgid "This theme is not available for purchase"
+msgstr "El tema no está disponible para la compra"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:64
+msgid "Setup routing"
+msgstr "Configurar enrutamiento"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:41
+msgid "Your current version is %s."
+msgstr "Versión instalada: %s"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:148
+msgid "\"%s\""
+msgstr "«%s»"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:8
+msgid "By app"
+msgstr "Por aplicación"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:33
+msgid "By type"
+msgstr "Por tipo"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:21
+msgid "Plugin \"%s\""
+msgstr "Plugin «%s»"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:23
+msgid "Theme \"%s\""
+msgstr "Tema de diseño «%s»"
+
+#: /wa-apps/installer/lib/classes/installerHelper.class.php:119
+msgid "Payment"
+msgstr "Sistemas de pago"
+
+#: /wa-apps/installer/lib/classes/installerHelper.class.php:120
+msgid "Shipping"
+msgstr "Cálculo de costes de envío"
+
+#: /wa-apps/installer/lib/classes/installerHelper.class.php:121
+msgid "SMS"
+msgstr "SMS"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:45
+msgid "Install all updates"
+msgstr "Instalar todas las actualizaciones"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:66
+msgid "License for this app is either expired or not valid for this domain (%s)"
+msgstr "La licencia de esta aplicación ha caducado o no es válida para este dominio (%s)"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:75
+msgid "Install update"
+msgstr "Actualizar"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:77
+msgid "Update cannot be installed:"
+msgstr "La actualización no se puede instalar:"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:24
+msgid "Updated"
+msgstr "Actualizado"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:27
+msgid "Status"
+msgstr "Estado"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:32
+msgid "Installed version"
+msgstr "Versión instalada"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:132
+msgid "%s/mo"
+msgstr "%s/mes."
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:49
+msgid "Apps"
+msgstr "Aplicaciones"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:207
+msgid "All apps"
+msgstr "Todas las aplicaciones"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:33
+msgid "License for using %s on <strong>%s</strong> has expired on %s"
+msgstr "La licencia para usar «%s» en el dominio <strong>%s</strong> ha expirado %s"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:36
+msgid "Get license"
+msgstr "Obtener licencia"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:35
+msgid ""
+"Installation and usage of the %s app on <strong>%s</strong> is not licensed. Updates are disabled. License your installation by clicking the "
+"button above."
+msgstr ""
+"La instalación y el uso de la aplicación «%s» en el dominio <strong>%s</strong> no tienen licencia. La capacidad de instalar actualizaciones está desactivada.Obtenga una licencia para continuar usando "
+"un botón."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:48
+msgid "A newer version of %s <strong>%s</strong> is available for installation (your current version is %s)."
+msgstr "La nueva versión de %s <strong>%s</strong> está disponible para la instalación (su versión actual %s)."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:187
+msgid "View release notes"
+msgstr "Registro de cambios"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:57
+msgid "This application cannot be updated"
+msgstr "La aplicación no se pudo actualizar"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:70
+msgid "Extend license"
+msgstr "Renovar licencia"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:71
+msgid "This is a licensed installation of %s on %s. License is valid through <strong>%s</strong>."
+msgstr "Esta es una instalación con licencia de «%s» en el dominio %s. La licencia es válida hasta <strong>%s</strong>."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:80
+msgid "You have the latest version of %s installed: <strong>%s</strong>"
+msgstr "La última versión de «%s» está instalada: <strong>%s</strong>"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:95
+msgid "Buy & Install"
+msgstr "Comprar e instalar"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:107
+msgid "This application cannot be installed"
+msgstr "No se pudo instalar la aplicación"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:140
+msgid "Price"
+msgstr "Precio"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:132
+msgid "for rent, first 30 days free"
+msgstr "en alquiler, primeros 30 días gratis"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:154
+msgid "Webasyst License"
+msgstr "Licencia de Webasyst"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:196
+msgid "Delete this app"
+msgstr "Desinstalar la aplicación"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:242
+msgid "Overview"
+msgstr "Descripción"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:9
+msgid "All"
+msgstr "Todos"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:10
+msgid "Paid"
+msgstr "Todos"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:95
+msgid "No plugins were found."
+msgstr "No se ha encontrado ningún plugin."
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:239
+msgid "All plugins"
+msgstr "Todos los plugins"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:7
+msgid "List"
+msgstr "Lista"
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:37
+msgid ""
+"Installation and usage of the %s plugin on <strong>%s</strong> is not licensed. Updates are disabled. License your installation by clicking "
+"the button above."
+msgstr ""
+"La instalación y uso del plugin «%s» en el dominio <strong>%s</strong> no está licenciado. La capacidad de instalar actualizaciones está desactivada. Obtenga una licencia haciendo click "
+ "a botón."
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:228
+msgid "Delete this plugin"
+msgstr "Eliminar plugin"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:25
+msgid "Universal themes"
+msgstr "Temas universales"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:62
+msgid "All colors"
+msgstr "Todos los colores"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:118
+msgid "No design themes were found."
+msgstr "No se encontraron temas de diseño."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:226
+msgid "All themes"
+msgstr "Todos los temas"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:37
+msgid ""
+"Installation and usage of the %s theme on <strong>%s</strong> is not licensed. Updates are disabled. License your installation by clicking "
+"the button above."
+msgstr ""
+"La instalación y el uso del tema «%s»  en el dominio <strong>%s</strong> no tiene licencia. La capacidad de instalar actualizaciones está desactivada. "
+"Obtenga una licencia para continuar usando el tema."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:215
+msgid "Delete this theme"
+msgstr "Eliminar tema"
+
+#: /wa-apps/installer/templates/layouts/Backend.html:52
+msgid "Editor’s choice"
+msgstr "Elección editorial"
+
+#: /wa-apps/installer/lib/actions/update/installerUpdateManager.action.php:33
+msgid "Unable to install product (developer version is on)"
+msgstr "No se puede instalar el producto (modo de desarrollo)"
+
+msgid "Unable to update product (developer version is on)"
+msgstr "No se puede actualizar el producto (modo de desarrollo)"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:194
+msgid "Demo"
+msgstr "Demo"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:38
+msgid "Plugin \"<strong>%s</strong>\""
+msgstr "Plugin «<strong>%s</strong>»"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:30
+msgid "Theme \"<strong>%s</strong>\""
+msgstr "Tema de diseño «<strong>%s</strong>»"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:15
+msgid "Apps by %s"
+msgstr "Aplicaciones %s"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:174
+msgid "Commercial"
+msgstr "Comercial"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:194
+msgid "View"
+msgstr "Ver"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:181
+msgid "%s end user license agreement"
+msgstr "Acuerdo de licencia de uso «%s»"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:187
+msgid "Close"
+msgstr "Cerrar"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:193
+msgid "No license"
+msgstr "Sin licencia"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:144
+msgid "Open"
+msgstr "Abrir"
+
+#: /wa-apps/installer/templates/actions/themes/Themes.html:44
+msgid "by %s"
+msgstr "%s"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:78
+msgid "Info"
+msgstr "Información"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:75 /wa-apps/installer/templates/actions/apps/AppsInfo.html:83
+msgid "Write a review"
+msgstr "Escribir una reseña"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:243
+msgid "Website"
+msgstr "Sitio web"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:299 /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:250
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:286 /wa-apps/installer/templates/actions/themes/ThemesInfo.html:293
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: /wa-apps/installer/lib/actions/settings/installerSettingsClearCache.controller.php:25
+msgid "But with errors:"
+msgstr "Con errores:"
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsView.html:13
+msgid "Popular plugins"
+msgstr "Plug-ins populares"
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsView.html:14
+msgid "The following list of plugins is automatically updated from the Webasyst Store. Click on a plugin to install."
+msgstr "Haga clic en un plugin para instalarlo automáticamente desde la tienda Webasyst."
+
+#: /wa-apps/installer/templates/actions/qa/QaDefault.html:45
+msgid "Plugin"
+msgstr "Plugin"
+
+#: /wa-apps/installer/templates/actions/qa/QaDefault.html:55
+msgid "Theme"
+msgstr "Tema"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:58
+msgid "Not licensed"
+msgstr "Sin licencia"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:63
+msgid "Expires %s"
+msgstr "Expira %s"
+
+msgid "Expired %s"
+msgstr "Expirada %s"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:65
+msgid "Licensed"
+msgstr "Licencia"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:36 /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:36
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:40 /wa-apps/installer/templates/actions/themes/ThemesInfo.html:44
+msgid "Link license"
+msgstr "Licencia de enlace"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:37 /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:37
+msgid ""
+"Installation and usage of %s app on <strong>%s</strong> is not licensed. Updates are disabled. Buy a new license or link your existing %s "
+"license to this Webasyst installation."
+msgstr ""
+"La instalación y el uso de «%s» en el dominio <strong>%s</strong>no está licenciado. La capacidad de instalar actualizaciones está desactivada. Comprar una nueva "
+"o conectar una licencia «%s» adquirida previamente a esta instalación de Webasyst."
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:70 /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:93
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:87
+msgid "This is a valid licensed installation of %s on <strong>%s</strong>."
+msgstr "Instalación licenciada de «%s» en el dominio <strong>%s</strong>."
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:76 /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:100
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:96
+msgid "Buy more licenses"
+msgstr "Comprar otra licencia"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:78 /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:102
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:98
+msgid ""
+"Additional licenses are required if you are using %s on more than one domain name (<a href='%s' target='_blank'>one license per domain</a>)."
+msgstr ""
+"Se requieren licencias adicionales si usa «%s» en más de un nombre de dominio (<a href='%s' "
+"target='_blank'>una licencia por un dominio</a>)."
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:78 /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:102
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:98
+msgid "http://www.webasyst.com/help/1200/paid-app-licensing/"
+msgstr "http://www.webasyst.com/help/1200/paid-app-licensing/"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:107 /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:100
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:134 /wa-apps/installer/templates/actions/themes/ThemesInfo.html:133
+msgid "%s will be automatically downloaded from Webasyst Store and installed immediately after you make payment."
+msgstr "La descarga e instalación de «%s» se realizará de forma automática inmediatamente después del pago."
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:115 /wa-apps/installer/templates/actions/apps/AppsInfoPremium.html:108
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:142 /wa-apps/installer/templates/actions/themes/ThemesInfo.html:143
+msgid "%s will be downloaded from Webasyst Store and installed automatically."
+msgstr "La descarga e instalación «%s» se realizará automáticamente."
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:28 /wa-apps/installer/templates/actions/themes/Themes.html:15
+msgid "Most popular"
+msgstr "Más popular"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:29 /wa-apps/installer/templates/actions/themes/Themes.html:16
+msgid "Newest"
+msgstr "Nuevos"
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:41
+msgid ""
+"Installation and usage of %s plugin on <strong>%s</strong> is not licensed. Updates are disabled. Buy a new license or link your existing %s "
+"plugin license to this Webasyst installation."
+msgstr ""
+"La instalación y el uso del plugin «%s» en el dominio <strong>%s</strong> no está licenciado. La capacidad de instalar actualizaciones está desactivada. Comprar "
+"una nueva licencia o conectar una licencia comprada previamente del plugin \"%s\" a esta instalación de Webasyst."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:45
+msgid ""
+"Installation and usage of %s theme on <strong>%s</strong> is not licensed. Updates are disabled. Buy a new license or link your existing %s "
+"theme license to this Webasyst installation."
+msgstr "La instalación y el uso del tema de diseño «%s» en el dominio <strong>%s</strong> no está licenciada o.La capacidad de instalar actualizaciones está desactivada. Comprar "
+"una nueva licencia o conectar una licencia comprada previamente del tema de diseño \"%s\" a esta instalación de Webasyst."
+
+#: /wa-apps/installer/lib/actions/plugins/installerPluginsInfo.action.php:54
+msgid "Plugin not found"
+msgstr "Plugin no encontrado"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:107 /wa-apps/installer/templates/actions/plugins/PluginsInfo.html:134
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:133
+msgid "If you already have a license, click the button above to link it to this Webasyst installation."
+msgstr "Si ya tiene una licencia comprada, haga clic en el botón de arriba para conectar la licencia a esta instalación de Webasyst."
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:29 /wa-apps/installer/templates/actions/plugins/Plugins.html:94
+#: /wa-apps/installer/templates/actions/themes/Themes.html:90
+msgid "New!"
+msgstr "¡Nuevo!"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:36 /wa-apps/installer/templates/actions/plugins/Plugins.html:101
+#: /wa-apps/installer/templates/actions/themes/Themes.html:97
+msgid "Popular!"
+msgstr "¡Popular!"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:36 /wa-apps/installer/templates/actions/plugins/Plugins.html:102
+#: /wa-apps/installer/templates/actions/themes/Themes.html:99
+msgid "New version!"
+msgstr "¡Nueva versión!"
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsView.html:17
+msgid "Or browse for all plugins in <a href=\"%s\">Installer</a> app."
+msgstr "O ver todos los plugins en la aplicación «<a href=\"%s\">Instalador</a>»."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:6
+msgid "Installed design themes"
+msgstr "Temas de diseño instalados"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:91
+msgid "New themes from Webasyst Store"
+msgstr "Nuevos temas de diseño de la tienda Webasyst"
+
+#: /wa-apps/installer/templates/actions/plugins/PluginsView.html:67 /wa-apps/installer/templates/actions/plugins/PluginsView.html:77
+msgid "Install \"%s\" plugin?"
+msgstr "Instalar Plugin «%s»?"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:103 /wa-apps/installer/templates/actions/update/UpdateManager.html:108
+msgid "Finalizing the installation and redirecting back to the app..."
+msgstr "Finalizando la instalación y redireccionando de vuelta a la aplicación..."
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:41 /wa-apps/installer/templates/actions/apps/AppsInfo.html:97
+msgid "or "
+msgstr "o"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:41 /wa-apps/installer/templates/actions/apps/AppsInfo.html:97
+msgid "buy permanent license"
+msgstr "comprar una licencia permanente"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:43 /wa-apps/installer/templates/actions/apps/AppsInfo.html:99
+msgid "Permanent license saves you money on your monthly bills (your monthly payment will be reduced by %s)."
+msgstr "Una licencia permanente le permite ahorrar en pagos mensuales de alojamiento-hosting (el pago mensual se reducirá en %s)."
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:37
+msgid "Not in use"
+msgstr "No está en uso"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesView.html:105
+msgid "Get new themes from Webasyst Store"
+msgstr "Nuevos temas de diseño de la tienda Webasyst"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:99
+msgid "To get the update, you need to have separate %s app license for every individual domain the app is used on: %s"
+msgstr ""
+"Para recibir la actualización, debe tener una licencia separada para la aplicación «%s» para cada dominio en el que se utiliza esta aplicación: %s"
+
+#: /wa-apps/installer/templates/actions/apps/AppsInfo.html:151
+msgid ""
+"%s will be downloaded from Webasyst Store and installed for free. Once installed, you will be able either to pay for the app on a monthly "
+"basis or to buy a permanent license."
+msgstr ""
+"«%s» se descargará e instalará de forma gratuita. Una vez instalado, podrá utilizar la aplicación o pagar el alquiler mensualmente, "
+"o comprando una licencia permanente."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:62
+msgid "Main account administrative email where system notification will be sent."
+msgstr "Correo electrónico administrativo de la cuenta principal a la que se enviará la notificación del sistema."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:68
+msgid "Sender"
+msgstr "Remitente"
+
+#: /wa-apps/installer/templates/actions/widgets/Widgets.html:37 /wa-apps/installer/templates/actions/widgets/Widgets.html:234
+#: /wa-apps/installer/templates/layouts/Backend.html:76
+msgid "Widgets"
+msgstr "Widgets"
+
+#: /wa-apps/installer/templates/actions/widgets/Widgets.html:55
+msgid "No widget enabled apps are installed."
+msgstr "No hay aplicaciones habilitadas para widgets instaladas."
+
+#: /wa-apps/installer/templates/actions/widgets/Widgets.html:228
+msgid "No widgets were found."
+msgstr "Widgets no encontrados."
+
+#: /wa-apps/installer/templates/actions/widgets/WidgetsInfo.html:16 /wa-apps/installer/templates/actions/widgets/WidgetsInfo.html:304
+msgid "All widgets"
+msgstr "Todos los widgets"
+
+#: /wa-apps/installer/templates/actions/widgets/WidgetsInfo.html:55
+msgid ""
+"Installation and usage of %s widget on <strong>%s</strong> is not licensed. Updates are disabled. Buy a new license or link your existing %s "
+"widget license to this Webasyst installation."
+msgstr ""
+"La instalación y uso del widget «%s» en el dominio <strong>%s</strong> не лицензирована. no está licenciado. La capacidad de instalar actualizaciones está desactivada. Consigue "
+"una licencia para continuar usando el widget."
+
+#: /wa-apps/installer/templates/actions/widgets/WidgetsInfo.html:293
+msgid "Delete this widget"
+msgstr "Eliminar widget"
+
+#: /wa-apps/installer/lib/actions/widgets/installerWidgets.action.php:33
+msgid "Webasyst framework"
+msgstr "Webasyst framework"
+
+#: /wa-apps/installer/lib/actions/widgets/installerWidgetsInfo.action.php:50
+msgid "Widget not found"
+msgstr "Widget no encontrado"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:141
+msgid "Application widget %s has been deleted"
+msgid_plural "Applications widgets %s have been deleted"
+msgstr[0] "El widget de aplicación «%s» ha sido eliminado"
+msgstr[1] "Los widgets de las aplicaciones «%s» han sido eliminados"
+msgstr[2] "Los widgets de las aplicaciones «%s» han sido eliminados"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:47
+msgid "Unable to delete application's widgets (developer version is on)"
+msgstr "Widget no borrado: hay una carpeta llamada .svn o.git en el directorio"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:33
+msgid "Widget \"<strong>%s</strong>\""
+msgstr "Widget «<strong>%s</strong>»"
+
+#: /wa-apps/installer/templates/actions/update/Update.row.html:110 /wa-apps/installer/templates/actions/widgets/WidgetsInfo.html:98
+msgid "This widget will be updated automatically when you update %s app."
+msgstr "El widget se actualizará automáticamente cuando instale la actualización de la aplicación «%s»."
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:132
+msgid "Localization"
+msgstr "Localización"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:135
+msgid "Gettext (recommended)"
+msgstr "Gettext (recomendado)"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:113
+msgid "Can not delete system application's widgets \"%s\""
+msgstr "Error en la eliminación de los widgets de aplicación del sistema «%s»"
+
+#: /wa-apps/installer/lib/classes/installerExtrasRemoveAction.class.php:120
+msgid "Can not delete inbuilt application's widgets \"%s\""
+msgstr "Error en la eliminación de los widgets de aplicación del sistema «%s»"
+
+#: /wa-apps/installer/templates/actions/update/UpdateManager.html:109 /wa-apps/installer/templates/actions/update/UpdateManager.html:122
+msgid "Gathering information about available updates..."
+msgstr "Recopilación de información sobre actualizaciones disponibles…"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:16 /wa-apps/installer/templates/layouts/Backend.html:54
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:16
+msgid "Best new apps"
+msgstr "Las mejores nuevas aplicaciones"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.html:16
+msgid "Top Free & Paid"
+msgstr "Líderes de ventas y descargas"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.html:11
+msgid "Actions"
+msgstr "Acciones"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.html:48 /wa-apps/installer/lib/actions/assets/installerAssets.action.php:75
+msgid "Assets"
+msgstr "Activos"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:22
+msgid "Plugin <a href=\"%s\">%s</a>"
+msgstr "Plugin «<a href=\"%s\">%s</a>»"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:24
+msgid "Theme <a href=\"%s\">%s</a>"
+msgstr "Tema de diseño «<a href=\"%s\">%s</a>»"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:26
+msgid "Widget <a href=\"%s\">%s</a>"
+msgstr "Widget «<a href=\"%s\">%s</a>»"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:55 /wa-apps/installer/templates/actions/assets/Assets.row.html:59
+msgid "Paused"
+msgstr "Deshabilitado"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:56
+msgid "Resume"
+msgstr "Habilitar"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:63
+msgid "Active"
+msgstr "Activo"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:64
+msgid "Pause"
+msgstr "Deshabilitar"
+
+#: /wa-apps/installer/templates/actions/assets/Assets.row.html:69
+msgid "System requirements not met:"
+msgstr "No se han cumplido los requisitos del sistema:"
+
+#: /wa-apps/installer/templates/actions/featured/Featured.html:41
+msgid "Recommended apps"
+msgstr "Aplicaciones recomendadas"
+
+#: /wa-apps/installer/templates/actions/featured/Featured.html:53
+msgid "Recommended themes"
+msgstr "Temas de diseño recomendados"
+
+#: /wa-apps/installer/templates/actions/featured/Featured.html:68
+msgid "Recommended plugins"
+msgstr "Plug-ins recomendados"
+
+#: /wa-apps/installer/templates/actions/featured/Featured.html:84
+msgid "Recommended widgets"
+msgstr "Widgets recomendados"
+
+#: /wa-apps/installer/templates/actions/featured/Featured.html:101
+msgid "Featured"
+msgstr "Recomendado"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:38
+msgid "Filter by app and type"
+msgstr "Filtro por aplicación y tipo"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:51
+msgid "Filter by category"
+msgstr "Filtrar por categoría"
+
+#: /wa-apps/installer/templates/actions/update/Update.html:44
+msgid "Webasyst Framework version <strong>%s</strong>"
+msgstr "Webasyst Framework — <strong>%s</strong>"
+
+#: /wa-apps/installer/templates/layouts/Backend.html:69
+msgid "Plugins for apps"
+msgstr "Plugins"
+
+#: /wa-apps/installer/templates/layouts/Backend.html:90
+msgid "Manage apps"
+msgstr "Instalado"
+
+#: /wa-apps/installer/templates/actions/apps/Apps.include.html:36 /wa-apps/installer/templates/actions/apps/AppsInfo.html:178
+msgid "Your account status enables you to install %s for free!"
+msgstr "¡El estado de su cuenta le permite instalar «%s» gratis!"
+
+#: /wa-apps/installer/templates/actions/featured/Featured.html:39 /wa-apps/installer/templates/actions/featured/Featured.html:59
+#: /wa-apps/installer/templates/actions/featured/Featured.html:83 /wa-apps/installer/templates/actions/featured/Featured.html:107
+msgid "See all"
+msgstr "Ver todo"
+
+#: /wa-apps/installer/templates/actions/plugins/Plugins.html:25
+msgid "Search"
+msgstr "Búsqueda"
+
+#: /wa-apps/installer/templates/actions/themes/ThemesInfo.html:237
+msgid "View theme demo"
+msgstr "Ver demostración del tema"
+
+msgid "<a target=\"_blank\" href=\"https://support.webasyst.com/2024/mailer-dkim/\">What is DKIM</a>"
+msgstr "<a target=\"_blank\" href=\"https://support.webasyst.ru/2023/mailer-dkim/\">Что такое DKIM</a>"
+
+msgid "Enter an email address in “Sender” field to use DKIM."
+msgstr "Para utilizar DKIM, introduzca la dirección de correo electrónico en el campo \"Remitente\"."
+
+msgid "Add a DKIM signature to outgoing email messages to confirm your ownership of the sender’s email address."
+msgstr "Añadir una firma DKIM para los mensajes de correo electrónico salientes para confirmar la propiedad de la dirección del remitente."
+
+msgid "Add a new <b>TXT record</b> with this public DKIM key to the DNS zone of domain name"
+msgstr "Añadir un nuevo  <b>TXT-registro</b> on esta clave DKIM pública a la zona DNS del dominio"
+
+msgid "Host "
+msgstr "Host"
+
+msgid "Domain"
+msgstr "Dominio"
+
+msgid "Record type"
+msgstr "Tipo de registro"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Selected captcha type will be used throughout your storefront wherever applicable."
+msgstr "El tipo de captcha seleccionado se utilizará en toda la tienda donde sea aplicable."
+
+msgid "Invisible mode"
+msgstr "Modo invisible"
+
+msgid "Get site key and secret for your website"
+msgstr "Obtenga valores para su sitio web"
+
+msgid "You need to install openssl php extention to use DKIM"
+msgstr "Necesita instalar la extensión openssl php para usar DKIM"
+
+msgid "You need PHP version 5.3 or higher to use DKIM. Your current version is:"
+msgstr "Necesita la versión 5.3 o superior de PHP para usar DKIM. Versión actual:"
+
+msgid "Extension openssl is not installed"
+msgstr "La extensión de Openssl no está instalada"
+
+msgid "Failed to create DKIM signature"
+msgstr "Falló al generar una clave DKIM"
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:244
+msgid "Webasyst Captcha"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:249
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:253
+msgid "Site Key"
+msgstr ""
+
+#: /wa-apps/installer/templates/actions/settings/Settings.html:259
+msgid "Secret"
+msgstr ""
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:71
+msgid "App %s installed"
+msgstr "Aplicación «%s» instalada"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:72
+msgid "Plugin %s installed"
+msgstr "Plugin «%s» instalado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:73
+msgid "Widget %s installed"
+msgstr "Widget «%s» instalado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:74
+msgid "Theme %s installed"
+msgstr "El tema «%s» instalado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:77
+msgid "App %s updated"
+msgstr "Aplicación «%s» actualizada"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:78
+msgid "Plugin %s updated"
+msgstr "Plugin «%s» actualizado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:79
+msgid "Widget %s updated"
+msgstr "Widget «%s» actualizado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:80
+msgid "Theme %s updated"
+msgstr "Theme «%s» actualizado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:83
+msgid "App %s enabled"
+msgstr "Aplicación «%s» habilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:84
+msgid "Plugin %s enabled"
+msgstr "Plugin «%s» habilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:85
+msgid "Widget %s enabled"
+msgstr "Widget «%s» habilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:86
+msgid "Theme %s enabled"
+msgstr "Tema «%s» habilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:89
+msgid "App %s disabled"
+msgstr "Aplicación «%s» deshabilitada"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:90
+msgid "Plugin %s disabled"
+msgstr "Plugin «%s» deshabilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:91
+msgid "Widget %s disabled"
+msgstr "Widget «%s» deshabilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:92
+msgid "Theme %s disabled"
+msgstr "Tema «%s» deshabilitado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:95
+msgid "App %s uninstalled"
+msgstr "Aplicación «%s» desinstalada"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:96
+msgid "Plugin %s uninstalled"
+msgstr "Plugin «%s» desinstalado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:97
+msgid "Widget %s uninstalled"
+msgstr "Widget «%s» desinstalado"
+
+#: /wa-apps/installer/lib/config/installerConfig.class.php:98
+msgid "Theme %s uninstalled"
+msgstr "Tema «%s» desinstalado"
+
+#: /wa-apps/installer/lib/config/logs.php:4
+msgid "Item installed"
+msgstr "Producto instalado"
+
+#: /wa-apps/installer/lib/config/logs.php:8
+msgid "Item disabled"
+msgstr "Producto deshabilitado"
+
+#: /wa-apps/installer/lib/config/logs.php:12
+msgid "Item updated"
+msgstr "Producto actualizado"
+
+#: /wa-apps/installer/lib/config/logs.php:16
+msgid "Item enabled"
+msgstr "Producto habilitado"
+
+#: /wa-apps/installer/lib/config/logs.php:20
+msgid "Item uninstalled"
+msgstr "Producto desinstalado"
+
+msgid "Email transport"
+msgstr "Email transporte"
+
+msgid "php mail() function"
+msgstr "PHP-funcion mail()"
+
+msgid "Debug mailer"
+msgstr "Remitente de prueba"
+
+msgid "When this option is selected messages are sent by the default transport specified in the Webasyst framework configuration."
+msgstr "Cuando se selecciona esta opción, los correos se enviarán por transporte predeterminado especificado en la configuración del framework de Webasyst."
+
+msgid ""
+"Some web-hosting companies allow sending email message by means of this transport only. If it is required to specify additional parameters "
+"for the mail() function you can enter them in the provided text field. The default parameters are -f%s."
+msgstr ""
+"Algunas empresas de alojamiento web permiten enviar mensajes de correo electrónico solo mediante este transporte. Si es necesario especificar "
+"parámetros adicionales дополнительные параметры, se pueden especificar en el campo de texto al seleccionar la opción  «Función de PHP mail()». El valor predeterminado es -f"
+"%s."
+
+msgid ""
+"This is the web server's system command for sending email in UNIX-like operating systems. The \"Sendmail\" option will allow you to specify "
+"a non-standard system command for sending messages if you are an experienced server administrator."
+msgstr ""
+"Este es un comando del sistema del servidor web que envía mensajes a los hosts UNIX. Opción de transporte «Sendmail»"
+"le permitirá especificar un comando de sistema no estándar para enviar mensajes si administra independientemente el funcionamiento de su web-"
+"servidor."
+
+msgid ""
+"Special server which is specifically used for sending email messages. You can send newsletters via any SMTP server for which you have "
+"connection credentials: host, port, user name, and password. It can be the SMTP server of your web-hosting company or that of a public mail "
+"service such as Gmail, Yahoo! Mail, Outlook.com, etc."
+msgstr ""
+"Un servidor de correo especial diseñado para enviar correos electrónicos. Puede enviar correos a través de cualquier servidor SMTP, para "
+"la conexión a la que tiene datos: dirección del servidor, número de puerto, nombre de usuario (inicio de sesión) y contraseña; este puede ser su servidor SMTP"
+"proveedor de alojamiento o servicio de correo público"
+
+msgid "Options"
+msgstr "Parámetros"
+
+msgid "Command"
+msgstr "Comando"
+
+msgid "Encryption"
+msgstr "Encriptación"
+
+msgid "Note: mail will be saved in wa-log/mailer/ and will NOT be sent to recipients."
+msgstr "Advertencia: los mensajes se almacenarán en wa-log/mailer/ y NO se enviarán a los destinatarios."
+
+msgid "None"
+msgstr "No"
+
+msgid "System settings"
+msgstr "Configuración del sistema"
+
+msgid "<a href=\"%s\">Change system settings in Settings app</a>."
+msgstr "<a href=\"%s\">Administre la configuración de su sistema en la aplicación «Configuración»</a>."
+
+msgid "This will delete the app’s source code and settings without the recovery option. Delete the app?"
+msgstr "El código fuente y la configuración de la aplicación se eliminarán permanentemente. ¿Desinstalar la aplicación?"
+
+msgid "This will delete the design theme’s source code and settings without the recovery option. Delete the theme?"
+msgstr "El código fuente y la configuración del tema de diseño se eliminarán permanentemente. ¿Desea eliminar el tema?"
+
+msgid "This will delete the plugin’s source code and settings without the recovery option. Delete the plugin?"
+msgstr "El código fuente y la configuración del plugin se eliminarán permanentemente. ¿Desinstalar el plugin?"
+
+msgid "This will delete the widget’s source code and settings without the recovery option. Delete the widget?"
+msgstr "El código fuente y la configuración del widget se eliminarán permanentemente. ¿Desea eliminar el widget?"
+
+msgid "Proceed to theme settings →"
+msgstr "Continuar a la configuración del tema →"
+
+msgid "Subscription for updates expired on <strong style='white-space:nowrap;'>%s</strong>"
+msgstr "La suscripción para actualizaciones expiró en <strong style='white-space:nowrap;'>%s</strong>"
+
+msgid "Extend subscription for updates"
+msgstr "Renovar suscripción de actualización"
+
+msgid "App’s hosted license is expired. To continue using the app, extend its hosted license."
+msgstr "El arrendamiento de la aplicación ha terminado. Para seguir utilizando la aplicación, extienda su licencia de alquiler."
+
+msgid "Pay for app’s hosted license"
+msgstr "Pagar por la licencia de alquiler"
+
+msgid "Subscription for updates is valid until <strong style='white-space:nowrap;'>%s</strong>."
+msgstr "La suscripción para actualizaciones es válida hasta <strong style='white-space:nowrap;'>%s</strong>."
+
+msgid "App’s hosted license has been paid until <strong style='white-space:nowrap;'>%s</strong>."
+msgstr "La licencia de la aplicación se ha pagado hasta <strong style='white-space:nowrap;'>%s</strong>."
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "New "
+msgstr "Nuevo"
+
+msgid "Top-chart"
+msgstr "Top-listas"
+
+msgid "Developers"
+msgstr "Desarrolladores"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:8
+msgid "Failed to get the URL of the remote Store"
+msgstr "No se pudo obtener la URL de la tienda eliminada"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:48
+msgid "Your review"
+msgstr "Tu reseña"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:57
+msgid "What you like or dislike about this product"
+msgstr "¿Qué te gusta y qué no te gusta de este producto?"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:59
+msgid "optional"
+msgstr "opcional"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:71
+msgid "Add a review"
+msgstr "Añadir una reseña"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:84
+msgid "Your review has been added, thank you!"
+msgstr "¡Gracias, su comentario ha sido añadido!"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:35
+msgid "Add a rate"
+msgstr "Dejar calificación"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:36
+msgid "Add a rate and a review"
+msgstr "Dejar una calificación y reseña"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:38
+msgid "Change rate"
+msgstr "Cambiar calificación"
+
+#: /wa-apps/installer/templates/actions/store/Store.html:41
+msgid "Change rate and review"
+msgstr "Cambiar calificación y reseña"
+
+#: /wa-apps/installer/lib/handlers/templates/webasyst.backend_header.announcement.html:20
+msgid "close"
+msgstr "cerrar"
+
+msgid "Your rates"
+msgstr "Tus calificaciones"
+
+msgid "for app"
+msgstr "sobre la aplicación"
+
+msgid "for plugin"
+msgstr "sobre el plugin"
+
+msgid "for widget"
+msgstr "sobre el widget"
+
+msgid "for theme"
+msgstr "sobre el tema"
+
+msgid "You are currently signed into Webasyst as <span class=\"js-customer-center-user-name\"></span>"
+msgstr "Estás autorizado en el Centro de Clientes como <span class=\"js-customer-center-user-name\"></span>"
+
+msgid "If you want to add a review as another customer, please <a class=\"js-customer-center-logout-link\">sign out</a>."
+msgstr "Si desea dejar comentarios con un nombre diferente, entonces <a class=\"js-customer-center-logout-link\">cierre sesión</a> de la cuenta actual."
+
+msgid "To add a review, <a class=\"js-customer-center-login-link\">log into Customer Center</a>"
+msgstr "Para dejar una opinión, <a class=\"js-customer-center-login-link\">inicie sesión en el Centro de atención al cliente</a>"
+
+msgid "Sign in required"
+msgstr "Se requiere autorización"
